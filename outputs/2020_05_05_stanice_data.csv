@@ -1,0 +1,829 @@
+"id";"X";"Y";"ELEVATION";"NAME";"FNAME";"STATION_TYP";"geometry";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";"pres"
+"B1BLAT01";17.4611;48.9465;211;"Blatnice";"Blatnice pod svatým Antonínkem";"MSS";"POINT (17.4611 48.9465)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"B1BOJK01";17.81;49.0402;310;"Bojkovice";"Bojkovice";"AKS3";"POINT (17.81 49.0402)";"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;NA;NA
+"B1BOJK01";17.81;49.0402;310;"Bojkovice";"Bojkovice";"AKS3";"POINT (17.81 49.0402)";"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;NA;NA
+"B1BUCH01";17.335389;49.089008;257;"Buchlovice";"Buchlovice";"MSS";"POINT (17.335389 49.089008)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"B1BYSH01";17.6706;49.3964;314;"Bystrice pod Hostýnem";"Bystrice pod Hostýnem";"AKS2";"POINT (17.6706 49.3964)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA
+"B1BZEN01";17.3055;48.9816;182;"Bzenec";"Bzenec";"MSS";"POINT (17.3055 48.9816)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA
+"B1DREV01";17.586111;49.424444;238;"Drevohostice";"Drevohostice";"ASS";"POINT (17.586111 49.424444)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"B1HLHO01";17.8033;49.155;348;"Horní Lhota";"Horní Lhota";"ASS";"POINT (17.8033 49.155)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"B1HLUK01";17.538;48.9863;225;"Hluk";"Hluk";"ASS";"POINT (17.538 48.9863)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"B1HODO01";17.104872;48.854292;172;"Hodonín";"Hodonín";"MSS";"POINT (17.104872 48.854292)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA
+"B1HOLE01";17.57;49.320556;222.25;"Holešov";"Holešov";"AMS1";"POINT (17.57 49.320556)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";"pres"
+"B1IVAN01";17.0894;49.3092;243;"Ivanovice na Hané";"Ivanovice na Hané";"AKS2";"POINT (17.0894 49.3092)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA
+"B1KLZI01";17.7925;49.0842;329;"Luhacovice";"Luhacovice, Kladná-Žilín";"AKS2";"POINT (17.7925 49.0842)";"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;"wind";NA
+"B1KOJE01";17.2944;49.3527;203;"Kojetín";"Kojetín";"ASS";"POINT (17.2944 49.3527)";"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;"wind";NA
+"B1KRAL01";17.1827;49.4597;210;"Kralice na Hané";"Kralice na Hané";"MSS";"POINT (17.1827 49.4597)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"B1KROM01";17.3653;49.2847;233;"Kromeríž";"Kromeríž";"AKS1";"POINT (17.3653 49.2847)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA
+"B1KVAS01";17.4703;49.2453;190;"Kvasice";"Kvasice";"MSS";"POINT (17.4703 49.2453)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"B1LYSO01";16.968611;49.216667;275;"Lysovice";"Lysovice";"MSS";"POINT (16.968611 49.216667)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"B1MSLI01";17.2319;49.2417;289;"Morkovice-Slížany";"Morkovice-Slížany, Slížany";"MSS";"POINT (17.2319 49.2417)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"B1NAMH01";17.065;49.605;247;"Námešt na Hané";"Námešt na Hané";"MSS";"POINT (17.065 49.605)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"B1NAPA01";17.5167;49.1833;185;"Napajedla";"Napajedla";"MSS";"POINT (17.5167 49.1833)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"B1NIVN01";17.64502;48.98061;241;"Nivnice";"Nivnice";"MSS";"POINT (17.64502 48.98061)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"B1PLUM01";17.0128;49.4683;303;"Plumlov";"Plumlov";"MSS";"POINT (17.0128 49.4683)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"B1PODI01";17.003611;49.369444;375;"Podivice";"Podivice";"ASS";"POINT (17.003611 49.369444)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"B1PROS01";17.134722;49.4525;214.75;"Prostejov";"Prostejov";"AMS";"POINT (17.134722 49.4525)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";"pres"
+"B1PROT01";16.83105;49.47782;675;"Protivanov";"Protivanov";"AKS1";"POINT (16.83105 49.47782)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA
+"B1RADE01";17.3348;48.8639;240;"Radejov";"Radejov";"MSS";"POINT (17.3348 48.8639)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"B1SLIN01";17.8783;49.0853;362;"Slavicín";"Slavicín";"MSS";"POINT (17.8783 49.0853)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"B1STHR01";17.8614;48.9681;412;"Starý Hrozenkov";"Starý Hrozenkov";"MSS";"POINT (17.8614 48.9681)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"B1STIT01";17.9711;49.0728;315;"Štítná nad Vlárí - Popov";"Štítná nad Vlárí - Popov";"AKS1";"POINT (17.9711 49.0728)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA
+"B1STME01";17.4322;49.0917;221;"Staré Mesto";"Staré Mesto";"AKS1";"POINT (17.4322 49.0917)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA
+"B1STRN01";17.7078;48.9028;383;"Strání";"Strání";"AKS1";"POINT (17.7078 48.9028)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA
+"B1STRZ01";17.3381;48.8992;176;"Strážnice";"Strážnice";"AKS1";"POINT (17.3381 48.8992)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA
+"B1UHBR01";17.6555;49.0255;222;"Uherský Brod";"Uherský Brod";"MSS";"POINT (17.6555 49.0255)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"B1UJED01";17.364444;49.211944;336;"Újezdsko";"Újezdsko";"MSS";"POINT (17.364444 49.211944)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"B1VEJATT";17.6697;48.8553;961;"Velká Javorina";"Velká Javorina";"TOTAL";"POINT (17.6697 48.8553)";NA;NA;NA;NA;NA;NA;NA;NA;NA
+"B1VELI01";17.7606;49.2875;392;"Zlín";"Zlín, Velíková";"MSS";"POINT (17.7606 49.2875)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"B1VELV01";17.5167;48.8789;289;"Velká nad Velickou";"Velká nad Velickou";"MSS";"POINT (17.5167 48.8789)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"B1VIZO01";17.84361;49.22297;313;"Vizovice";"Vizovice";"AKS1";"POINT (17.84361 49.22297)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA
+"B1VKLO01";18.015;49.139167;402;"Valašské Klobouky";"Valašské Klobouky";"ASS";"POINT (18.015 49.139167)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"B1ZLIN01";17.643333;49.236667;283;"Zlín";"Zlín";"AKS3";"POINT (17.643333 49.236667)";"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;"wind";NA
+"B1ZLIN01";17.643333;49.236667;283;"Zlín";"Zlín";"AKS3";"POINT (17.643333 49.236667)";"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;"wind";NA
+"B2BABI01";16.6958;49.2889;470;"Babice nad Svitavou";"Babice nad Svitavou";"MSS";"POINT (16.6958 49.2889)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"B2BATE01";15.355278;49.278056;643;"Batelov";"Batelov, Nová Ves";"MSS";"POINT (15.355278 49.278056)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"B2BITO01";15.73;48.938333;425;"Bítov";"Bítov";"MSS";"POINT (15.73 48.938333)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"B2BJUN01";16.5608;49.2019;260;"Brno";"Brno, Jundrov";"MSS";"POINT (16.5608 49.2019)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"B2BLAN01";16.6503;49.3597;299;"Blansko";"Blansko";"MSS";"POINT (16.6503 49.3597)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"B2BOHD01";15.871783;49.481656;583;"Bohdalov";"Bohdalov";"MSS";"POINT (15.871783 49.481656)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"B2BOZI01";16.2881;48.8344;216;"Božice";"Božice";"MSS";"POINT (16.2881 48.8344)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"B2BRAS01";16.4353;48.9661;200;"Branišovice";"Branišovice";"MSS";"POINT (16.4353 48.9661)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"B2BRES01";16.5003;49.6597;387;"Brezová nad Svitavou";"Brezová nad Svitavou";"MSS";"POINT (16.5003 49.6597)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"B2BROD01";16.5358;48.8733;177;"Brod nad Dyjí";"Brod nad Dyjí";"AKS1";"POINT (16.5358 48.8733)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA
+"B2BRTN01";15.6753;49.3069;517;"Brtnice";"Brtnice";"ASS";"POINT (15.6753 49.3069)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"B2BTUR01";16.688889;49.153056;241;"Brno";"Brno, Turany";"AMS";"POINT (16.688889 49.153056)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";"pres"
+"B2BUCO01";17.014033;49.129881;238;"Bucovice";"Bucovice, Kloboucky";"MSS";"POINT (17.014033 49.129881)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"B2BUDI01";16.0039;49.2717;485;"Budišov";"Budišov";"MSS";"POINT (16.0039 49.2717)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"B2BUKA01";16.798889;49.296944;511;"Bukovinka";"Bukovinka";"ASS";"POINT (16.798889 49.296944)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"B2BYSP01";16.25401;49.52416;553;"Bystrice nad Pernštejnem";"Bystrice nad Pernštejnem";"AKS1";"POINT (16.25401 49.52416)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA
+"B2BZAB01";16.5677;49.2165;236;"Brno";"Brno, Žabovresky";"AKS1";"POINT (16.5677 49.2165)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA
+"B2BZID01";16.631111;49.1983;200;"Brno";"Brno, Židenice";"MSS";"POINT (16.631111 49.1983)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"B2CRUD01";15.322222;49.073333;520;"Ceský Rudolec";"Ceský Rudolec";"ASS";"POINT (15.322222 49.073333)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"B2DACI01";15.4344;49.0831;486;"Dacice";"Dacice";"MSS";"POINT (15.4344 49.0831)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"B2DRNH01";16.48;48.8589;210;"Drnholec";"Drnholec";"MSS";"POINT (16.48 48.8589)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"B2DUBN01";17.1028;48.9208;200;"Dubnany";"Dubnany";"MSS";"POINT (17.1028 48.9208)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"B2DUKO01";16.134444;49.095556;400.15;"Dukovany";"Dukovany";"AMS1";"POINT (16.134444 49.095556)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";"pres"
+"B2DVES01";16.6414;48.8872;172;"Dolní Vestonice";"Dolní Vestonice";"MSS";"POINT (16.6414 48.8872)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"B2DYJA01";16.2992;48.7733;201;"Dyjákovice";"Dyjákovice";"AKS1";"POINT (16.2992 48.7733)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA
+"B2DZBA01";16.2092;49.0028;337;"Džbánice";"Džbánice";"ASS";"POINT (16.2092 49.0028)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"B2HAJE01";16.4725;49.3731;409;"Tišnov";"Tišnov, Hájek";"AKS2";"POINT (16.4725 49.3731)";"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;"wind";NA
+"B2HRAS01";16.4875;49.7311;446;"Hradec nad Svitavou";"Hradec nad Svitavou";"ASS";"POINT (16.4875 49.7311)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"B2HROT01";16.0588;49.1105;425;"Hrotovice";"Hrotovice";"MSS";"POINT (16.0588 49.1105)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"B2HRUS01";16.9739;48.7919;174;"Hrušky";"Hrušky";"MSS";"POINT (16.9739 48.7919)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"B2HUBE01";15.4669;49.3931;570;"Hubenov";"Hubenov";"AKS1";"POINT (15.4669 49.3931)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA
+"B2HUST01";16.7258;48.9456;201;"Hustopece";"Hustopece";"MSS";"POINT (16.7258 48.9456)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"B2HYSL01";17.18;49.021389;217;"Hýsly";"Hýsly";"MSS";"POINT (17.18 49.021389)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"B2JARS01";16.2325;48.7553;190;"Jaroslavice";"Jaroslavice";"MSS";"POINT (16.2325 48.7553)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"B2JEMN01";15.59;49.025;502;"Jemnice";"Jemnice";"ASS";"POINT (15.59 49.025)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"B2JIHL01";15.6164;49.4064;468;"Jihlava";"Jihlava, Hruškové Dvory";"AKS3";"POINT (15.6164 49.4064)";"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;"wind";NA
+"B2JIHL01";15.6164;49.4064;468;"Jihlava";"Jihlava, Hruškové Dvory";"AKS3";"POINT (15.6164 49.4064)";"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;"wind";NA
+"B2KADO01";16.0781;49.6358;672;"Kadov";"Kadov";"ASS";"POINT (16.0781 49.6358)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"B2KLOB01";16.8767;48.9961;205;"Klobouky u Brna";"Klobouky u Brna";"MSS";"POINT (16.8767 48.9961)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"B2KMYS01";15.439167;49.159167;569;"Kostelní Myslová";"Kostelní Myslová";"AMS1";"POINT (15.439167 49.159167)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";"pres"
+"B2KNIN01";16.692288;49.537004;369;"Knínice u Boskovic";"Knínice u Boskovic";"MSS";"POINT (16.692288 49.537004)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"B2KOBY01";16.8814;48.9394;175;"Kobylí";"Kobylí";"AKS1";"POINT (16.8814 48.9394)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA
+"B2KORC01";17.17;49.1028;305;"Korycany";"Korycany";"MSS";"POINT (17.17 49.1028)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"B2KRIZ01";16.0667;49.6833;615;"Križánky";"Križánky, Moravské Križánky";"MSS";"POINT (16.0667 49.6833)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"B2KUCH01";16.085278;48.881111;334;"Kucharovice";"Kucharovice";"AMS1";"POINT (16.085278 48.881111)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";"pres"
+"B2KURI01";16.5322;49.3006;291;"Kurim";"Kurim";"MSS";"POINT (16.5322 49.3006)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"B2LANZ01";16.9575;48.724722;158;"Lanžhot";"Lanžhot";"MSS";"POINT (16.9575 48.724722)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"B2LAZT01";15.786675;49.013078;432;"Láz";"Láz";"MSS";"POINT (15.786675 49.013078)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"B2LEDN01";16.798895;48.792616;177;"Lednice";"Lednice";"AKS2";"POINT (16.798895 48.792616)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA
+"B2LETO01";16.5767;49.5544;334;"Letovice";"Letovice";"MSS";"POINT (16.5767 49.5544)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"B2LISE01";16.183611;49.583611;688;"Lísek";"Lísek";"MSS";"POINT (16.183611 49.583611)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"B2LUKO01";15.9077;48.8566;403;"Lukov";"Lukov";"MSS";"POINT (15.9077 48.8566)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"B2MBRA01";16.4494;49.0825;210;"Moravské Bránice";"Moravské Bránice";"MSS";"POINT (16.4494 49.0825)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"B2MBUD01";15.8067;49.0611;460;"Moravské Budejovice";"Moravské Budejovice";"AKS2";"POINT (15.8067 49.0611)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA
+"B2MIKU01";16.6401;48.801911;224;"Mikulov";"Mikulov";"MSS";"POINT (16.6401 48.801911)";"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;"wind";NA
+"B2MILE01";16.853889;49.083889;242;"Milešovice";"Milešovice";"MSS";"POINT (16.853889 49.083889)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"B2MIRO01";16.3197;48.9442;238;"Miroslav";"Miroslav";"MSS";"POINT (16.3197 48.9442)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"B2MKRU01";16.306463;49.039908;255;"Moravský Krumlov";"Moravský Krumlov";"MSS";"POINT (16.306463 49.039908)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"B2NAMO01";16.15;49.2167;390;"Námešt nad Oslavou";"Námešt nad Oslavou";"ASS";"POINT (16.15 49.2167)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA
+"B2NEDV01";16.3097;49.6344;722;"Nedvezí";"Nedvezí";"AKS1";"POINT (16.3097 49.6344)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";"pres"
+"B2NEMO01";17.1361;49.1808;283;"Nemochovice";"Nemochovice";"AKS2";"POINT (17.1361 49.1808)";"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;"wind";NA
+"B2NMES01";16.0689;49.5581;601;"Nové Mesto na Morave";"Nové Mesto na Morave";"ASS";"POINT (16.0689 49.5581)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"B2NOVE01";15.7869;49.2547;422;"Nová Ves";"Nová Ves";"ASS";"POINT (15.7869 49.2547)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"B2OBOR01";16.603611;49.451667;425;"Obora";"Obora";"ASS";"POINT (16.603611 49.451667)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"B2OLES01";16.4231;49.555;535;"Olešnice";"Olešnice";"ASS";"POINT (16.4231 49.555)";"tmean";"tmax";"tmin";NA;"prec";"snow";NA;"wind";NA
+"B2PAVL01";15.8772;49.3508;559;"Pavlínov";"Pavlínov";"MSS";"POINT (15.8772 49.3508)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"B2POHO01";16.5283;48.9844;180;"Pohorelice";"Pohorelice";"AKS1";"POINT (16.5283 48.9844)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA
+"B2POLI01";16.269167;49.716111;552;"Policka";"Policka";"ASS";"POINT (16.269167 49.716111)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"B2RADO01";15.9675;49.460278;512;"Radostín";"Radostín";"ASS";"POINT (15.9675 49.460278)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"B2ROZS01";16.835258;49.398026;571;"Rozstání";"Rozstání";"MSS";"POINT (16.835258 49.398026)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"B2SATO01";16.020556;48.789167;238;"Šatov";"Šatov";"ASS";"POINT (16.020556 48.789167)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"B2SEDC01";16.120556;49.170833;474;"Sedlec";"Sedlec";"AMS";"POINT (16.120556 49.170833)";NA;NA;NA;NA;NA;NA;NA;NA;NA
+"B2SEJR01";16.3103;49.4367;519;"Sejrek";"Sejrek";"MSS";"POINT (16.3103 49.4367)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"B2SLAB01";16.879167;49.1575;211;"Slavkov u Brna";"Slavkov u Brna";"MSS";"POINT (16.879167 49.1575)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"B2SOSU01";16.746944;49.414444;533;"Šošuvka";"Šošuvka";"MSS";"POINT (16.746944 49.414444)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"B2STAL01";15.2843;49.0292;639;"Slavonice";"Slavonice, Stálkov";"MSS";"POINT (15.2843 49.0292)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"B2STEM01";15.7133;49.1936;617;"Štemechy";"Štemechy";"MSS";"POINT (15.7133 49.1936)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"B2STEP01";16.3333;49.5;365;"Štepánov nad Svratkou";"Štepánov nad Svratkou";"MSS";"POINT (16.3333 49.5)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"B2STHU01";17.2883;49.1372;427;"Staré Hute";"Staré Hute";"ASS";"POINT (17.2883 49.1372)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"B2STRA01";16.198;49.4411;445;"Strážek";"Strážek";"MSS";"POINT (16.198 49.4411)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"B2STRE01";15.9828;48.9934;325;"Strelice";"Strelice";"ASS";"POINT (15.9828 48.9934)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"B2SVLK01";16.550556;49.589167;395;"Stvolová";"Stvolová, Skrib";"MSS";"POINT (16.550556 49.589167)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"B2TESA01";16.7658;49.0419;209;"Tešany";"Tešany";"MSS";"POINT (16.7658 49.0419)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"B2TREB01";15.87;49.2236;463;"Trebíc";"Trebíc, Podklášterí";"MSS";"POINT (15.87 49.2236)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"B2TRES01";15.476111;49.293889;574;"Trešt";"Trešt";"ASS";"POINT (15.476111 49.293889)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"B2TROU01";16.5074;49.1745;278;"Troubsko";"Troubsko";"AKS2";"POINT (16.5074 49.1745)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA
+"B2VALT01";16.759167;48.745833;195;"Valtice";"Valtice";"MSS";"POINT (16.759167 48.745833)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"B2VATI01";15.96806;49.52306;558;"Vatín";"Vatín";"AKS1";"POINT (15.96806 49.52306)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA
+"B2VBIT01";16.221;49.2918;485;"Velká Bíteš";"Velká Bíteš";"ASS";"POINT (16.221 49.2918)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"B2VEBI01";16.4317;49.2767;246;"Veverská Bítýška";"Veverská Bítýška";"MSS";"POINT (16.4317 49.2767)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"B2VECO01";16.2019;49.6153;550;"Vecov";"Vecov, Jimramovské Pavlovice";"MSS";"POINT (16.2019 49.6153)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"B2VIRP01";16.3139;49.5642;473;"Vír";"Vír";"MSS";"POINT (16.3139 49.5642)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"B2VMEZ01";16.0086;49.3528;452;"Velké Mezirící";"Velké Mezirící";"AKS1";"POINT (16.0086 49.3528)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA
+"B2VRAN01";15.8186;48.9056;354;"Vranov nad Dyjí";"Vranov nad Dyjí";"MSS";"POINT (15.8186 48.9056)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"B2VSTU01";15.7303;49.3931;568;"Vysoké Studnice";"Vysoké Studnice";"ASS";"POINT (15.7303 49.3931)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"B2ZAST01";16.36313;49.19298;375;"Zastávka";"Zastávka";"MSS";"POINT (16.36313 49.19298)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"B2ZDAN01";17.025556;49.071944;238;"Ždánice";"Ždánice";"AKS3";"POINT (17.025556 49.071944)";"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;NA;NA
+"B2ZDAN01";17.025556;49.071944;238;"Ždánice";"Ždánice";"AKS3";"POINT (17.025556 49.071944)";"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;NA;NA
+"B2ZIDL01";16.6152;49.0319;183;"Židlochovice";"Židlochovice";"MSS";"POINT (16.6152 49.0319)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"B4HERA01";15.960258;49.694406;685;"Herálec";"Herálec";"ASNS";"POINT (15.960258 49.694406)";NA;NA;NA;NA;NA;NA;NA;NA;NA
+"B4NEMO00";17.1333;49.1833;280;"Nemochovice";"Nemochovice";"ASS";"POINT (17.1333 49.1833)";NA;NA;NA;NA;NA;NA;NA;NA;NA
+"B4SUMR01";15.330078;49.175992;650;"Studená";"Studená, Sumrakov";"ASNS";"POINT (15.330078 49.175992)";NA;NA;NA;NA;NA;NA;NA;NA;NA
+"B4ZITK01";17.867778;48.9925;705;"Žítková";"Žítková";"ASNS";"POINT (17.867778 48.9925)";NA;NA;NA;NA;NA;NA;NA;NA;NA
+"C1BAVO01";14.089722;49.123889;416;"Bavorov";"Bavorov";"MSS";"POINT (14.089722 49.123889)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"C1BERN01";14.389167;49.366111;485;"Bernartice";"Bernartice";"ASS";"POINT (14.389167 49.366111)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"C1BLAD01";13.661958;48.99055;898;"Borová Lada";"Borová Lada";"AKS3";"POINT (13.661958 48.99055)";"tmean";"tmax";"tmin";NA;"prec";"snow";NA;NA;NA
+"C1BLAD01";13.661958;48.99055;898;"Borová Lada";"Borová Lada";"AKS3";"POINT (13.661958 48.99055)";"tmean";"tmax";"tmin";NA;"prec";"snow";NA;NA;NA
+"C1BLAT01";13.8731;49.4333;452;"Blatná";"Blatná";"MSS";"POINT (13.8731 49.4333)";"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;"wind";NA
+"C1BREZ01";13.9461;49.5542;493;"Breznice";"Breznice";"ASS";"POINT (13.9461 49.5542)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"C1BRZKTT";13.4892;48.9547;1154;"Brezník";"Brezník, Hranicní slat";"TOTAL";"POINT (13.4892 48.9547)";NA;NA;NA;NA;NA;"snow";NA;NA;NA
+"C1CDVU01";14.2378;48.8514;588;"Cervený Dvur";"Cervený Dvur, Chvalšiny";"MSS";"POINT (14.2378 48.8514)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"C1CERP01";14.1072;48.7356;740;"Cerná v Pošumaví";"Cerná v Pošumaví";"AKS1";"POINT (14.1072 48.7356)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA
+"C1CHAN01";13.7194;49.4019;533;"Chanovice";"Chanovice";"ASS";"POINT (13.7194 49.4019)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"C1CHEL01";14.169367;49.119265;451;"Chelcice";"Chelcice";"ASS";"POINT (14.169367 49.119265)";"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;"wind";NA
+"C1CHUR01";13.615278;49.068333;1117.8;"Churánov";"Churánov";"AMS1";"POINT (13.615278 49.068333)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";"pres"
+"C1FILH01";13.52;49.03;1110;"Filipova Hut";"Filipova Hut";"ASS";"POINT (13.52 49.03)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"C1FILHTT";13.5192;49.0294;1112;"Filipova Hut";"Filipova Hut";"TOTAL";"POINT (13.5192 49.0294)";NA;NA;NA;NA;NA;NA;NA;NA;NA
+"C1FRAN01";14.100278;48.9825;726;"Frantoly";"Frantoly";"MSS";"POINT (14.100278 48.9825)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"C1HKVI01";13.56502;49.053673;1052;"Horská Kvilda";"Horská Kvilda";"AKS3";"POINT (13.56502 49.053673)";"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;"wind";NA
+"C1HKVI01";13.56502;49.053673;1052;"Horská Kvilda";"Horská Kvilda";"AKS3";"POINT (13.56502 49.053673)";"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;"wind";NA
+"C1HLHO01";13.6897;49.3486;445;"Horaždovická Lhota";"Horaždovická Lhota";"MSS";"POINT (13.6897 49.3486)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"C1HLUB01";14.4356;49.0542;410;"Hluboká nad Vltavou";"Hluboká nad Vltavou";"ASS";"POINT (14.4356 49.0542)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"C1HUSI01";13.9883;49.0522;483;"Husinec";"Husinec";"AKS1";"POINT (13.9883 49.0522)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA
+"C1JELE01";13.8897;48.8031;810;"Jelení";"Jelení, Nová Pec";"ASS";"POINT (13.8897 48.8031)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"C1KATO01";13.831944;49.270833;412;"Katovice";"Katovice";"MSS";"POINT (13.831944 49.270833)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"C1KEST01";14.0736;49.2681;381;"Kestrany";"Kestrany";"ASS";"POINT (14.0736 49.2681)";"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;"wind";NA
+"C1KHOR01";13.55;49.145556;728;"Kašperské Hory";"Kašperské Hory";"AKS";"POINT (13.55 49.145556)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA
+"C1KHUT01";13.7722;48.9839;1010;"Kubova Hut";"Kubova Hut";"MSS";"POINT (13.7722 48.9839)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"C1KNSTTT";14.0119;48.8472;1126;"Knížecí Stolec";"Knížecí Stolec";"TOTAL";"POINT (14.0119 48.8472)";NA;NA;NA;NA;NA;NA;NA;NA;NA
+"C1KOCE01";13.838611;49.467222;519;"Kocelovice";"Kocelovice";"AMS1";"POINT (13.838611 49.467222)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";"pres"
+"C1KPLATT";13.625;48.9572;1018;"Knížecí Pláne";"Knížecí Pláne, Borová Lada";"TOTAL";"POINT (13.625 48.9572)";NA;NA;NA;NA;NA;NA;NA;NA;NA
+"C1KRSI01";14.0725;49.484444;430;"Krsice";"Krsice";"ASS";"POINT (14.0725 49.484444)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"C1KTIS01";14.1058;48.9033;758;"Ktiš";"Ktiš, Tisovka";"AKS2";"POINT (14.1058 48.9033)";"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;"wind";NA
+"C1KVIL01";13.5792;49.0192;1059;"Kvilda";"Kvilda";"AKS3";"POINT (13.5792 49.0192)";"tmean";"tmax";"tmin";NA;"prec";"snow";NA;NA;NA
+"C1KVIL01";13.5792;49.0192;1059;"Kvilda";"Kvilda";"AKS3";"POINT (13.5792 49.0192)";"tmean";"tmax";"tmin";NA;"prec";"snow";NA;NA;NA
+"C1NALH01";13.5486;49.3347;495;"Nalžovské Hory";"Nalžovské Hory";"ASS";"POINT (13.5486 49.3347)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"C1NEMC01";14.2714;49.0308;436;"Nemcice";"Nemcice";"MSS";"POINT (14.2714 49.0308)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"C1ORLV01";14.1683;49.5036;431;"Orlík nad Vltavou";"Orlík nad Vltavou";"ASS";"POINT (14.1683 49.5036)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"C1PASE01";14.2678;49.2497;482;"Paseky";"Paseky";"ASS";"POINT (14.2678 49.2497)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"C1PLCHTT";13.851601;48.771198;1344;"Plechý";"Plechý, Trojmezí";"TOTAL";"POINT (13.851601 48.771198)";NA;NA;NA;NA;NA;NA;NA;NA;NA
+"C1POLETT";13.3958;49.0642;1312;"Poledník";"Poledník";"TOTAL";"POINT (13.3958 49.0642)";NA;NA;NA;NA;NA;"snow";NA;NA;NA
+"C1PRAS01";13.3786;49.1069;883;"Prášily";"Prášily";"ASS";"POINT (13.3786 49.1069)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"C1PRCH01";13.9944;49.0078;607;"Prachatice";"Prachatice";"MSS";"POINT (13.9944 49.0078)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"C1RADO01";13.7272;49.5322;570;"Radošice";"Radošice";"ASS";"POINT (13.7272 49.5322)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"C1ROSLTT";13.4167;49.0156;1096;"Rokytská slat";"Rokytská slat";"TOTAL";"POINT (13.4167 49.0156)";NA;NA;NA;NA;NA;NA;NA;NA;NA
+"C1ROZM01";13.8664;49.605;538;"Rožmitál pod Tremšínem";"Rožmitál pod Tremšínem";"AKS1";"POINT (13.8664 49.605)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";"pres"
+"C1SEDL01";13.9419;49.3756;511;"Sedlice";"Sedlice";"AKS3";"POINT (13.9419 49.3756)";"tmean";"tmax";"tmin";NA;"prec";"snow";NA;NA;NA
+"C1SEDL01";13.9419;49.3756;511;"Sedlice";"Sedlice";"AKS3";"POINT (13.9419 49.3756)";"tmean";"tmax";"tmin";NA;"prec";"snow";NA;NA;NA
+"C1SRNI01";13.4789;49.0869;857;"Srní";"Srní";"MSS";"POINT (13.4789 49.0869)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"C1STOZ01";13.821667;48.8569;797;"Stožec";"Stožec";"MSS";"POINT (13.821667 48.8569)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"C1STRA01";13.9242;49.2514;427;"Strakonice";"Strakonice";"AKS1";"POINT (13.9242 49.2514)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA
+"C1STRS01";13.6425;49.1797;637;"Strašín";"Strašín";"ASS";"POINT (13.6425 49.1797)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"C1STRZ01";13.72028;48.908822;811;"Strážný";"Strážný";"ASS";"POINT (13.72028 48.908822)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"C1SUSI01";13.5283;49.2381;484;"Sušice";"Sušice";"MSS";"POINT (13.5283 49.2381)";"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;"wind";NA
+"C1TEME01";14.342222;49.197778;500;"Temelín";"Temelín";"AMS1";"POINT (14.342222 49.197778)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";"pres"
+"C1TOCH01";13.9897;49.6003;494;"Tochovice";"Tochovice";"MSS";"POINT (13.9897 49.6003)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"C1VACP01";13.72;49.1336;738;"Vacov";"Vacov, Peckov";"ASS";"POINT (13.72 49.1336)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"C1VIMP01";13.7825;49.065833;628;"Vimperk";"Vimperk";"AKS3";"POINT (13.7825 49.065833)";"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;NA;NA
+"C1VIMP01";13.7825;49.065833;628;"Vimperk";"Vimperk";"AKS3";"POINT (13.7825 49.065833)";"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;NA;NA
+"C1VLKO01";13.5897;49.3022;493;"Vlkonice";"Vlkonice";"AKS1";"POINT (13.5897 49.3022)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA
+"C1VOLR01";13.88657;48.90881;749;"Volary";"Volary";"AKS2";"POINT (13.88657 48.90881)";"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;"wind";NA
+"C1VOLY01";13.8639;49.1875;448;"Volyne";"Volyne, Nihošovice";"ASS";"POINT (13.8639 49.1875)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"C1VRAZ01";14.1289;49.3844;433;"Vráž";"Vráž";"AKS1";"POINT (14.1289 49.3844)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA
+"C1ZALE01";13.8892;49.1078;569;"Zálezly";"Zálezly";"MSS";"POINT (13.8892 49.1078)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"C1ZAMY01";13.374402;49.22629;800;"Zámyšl";"Zámyšl";"ASS";"POINT (13.374402 49.22629)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"C1ZAVI01";13.923056;49.487222;501;"Závišín";"Závišín";"MSS";"POINT (13.923056 49.487222)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"C1ZBYT01";13.9889;48.9417;792;"Zbytiny";"Zbytiny";"ASS";"POINT (13.9889 48.9417)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"C2BECH01";14.4708;49.3;409;"Bechyne";"Bechyne";"ASS";"POINT (14.4708 49.3)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";"pres"
+"C2BENC01";14.6283;48.7311;665;"Benešov nad Cernou";"Benešov nad Cernou";"MSS";"POINT (14.6283 48.7311)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"C2BESE01";14.5689;48.7958;593;"Besednice";"Besednice";"MSS";"POINT (14.5689 48.7958)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"C2BORK01";14.636825;49.207925;419;"Borkovice";"Borkovice";"AKS2";"POINT (14.636825 49.207925)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA
+"C2BORS01";14.439722;48.926667;404;"Boršov nad Vltavou";"Boršov nad Vltavou";"MSS";"POINT (14.439722 48.926667)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"C2BRLO01";14.2189;48.9269;559;"Brloh";"Brloh";"MSS";"POINT (14.2189 48.9269)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"C2BYNO01";14.799947;48.816603;475;"Bynov";"Bynov";"AKS1";"POINT (14.799947 48.816603)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA
+"C2CBUD01";14.469722;48.951944;394.6;"Ceské Budejovice";"Ceské Budejovice,Rožnov";"AMS2";"POINT (14.469722 48.951944)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";"pres"
+"C2CERN01";14.9625;49.3575;580;"Cernovice";"Cernovice, Dobešov";"AKS2";"POINT (14.9625 49.3575)";"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;"wind";NA
+"C2CHLT01";14.9358;48.9578;462;"Chlum u Trebone";"Chlum u Trebone";"ASS";"POINT (14.9358 48.9578)";"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;"wind";NA
+"C2CHYN01";14.810556;49.414167;492;"Chýnov";"Chýnov";"MSS";"POINT (14.810556 49.414167)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"C2CKRU01";14.33935;48.832242;554;"Ceský Krumlov";"Ceský Krumlov, Prísecná";"AKS2";"POINT (14.33935 48.832242)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA
+"C2DDVO01";14.453611;48.657222;613;"Dolní Dvorište";"Dolní Dvorište";"MSS";"POINT (14.453611 48.657222)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"C2HLAS01";14.7561;49.4981;547;"Hlasivo";"Hlasivo";"AKS2";"POINT (14.7561 49.4981)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA
+"C2HRNH01";14.8494;48.8181;479;"Hranice";"Hranice";"MSS";"POINT (14.8494 48.8181)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"C2JHRA01";14.9575;49.1556;524;"Jindrichuv Hradec";"Jindrichuv Hradec, Debolín";"AKS1";"POINT (14.9575 49.1556)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA
+"C2JIST01";14.529167;49.484444;580;"Jistebnice";"Jistebnice";"MSS";"POINT (14.529167 49.484444)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"C2KAML01";15.0633;49.2831;557;"Kamenice nad Lipou";"Kamenice nad Lipou, Vodná";"ASS";"POINT (15.0633 49.2831)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"C2KARD01";14.8558;49.1864;450;"Kardašova Recice";"Kardašova Recice";"MSS";"POINT (14.8558 49.1864)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"C2KOVA01";14.2783;49.5172;529;"Kovárov";"Kovárov";"MSS";"POINT (14.2783 49.5172)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"C2KREM01";14.3028;48.9064;524;"Kremže";"Kremže, Mríc";"AKS3";"POINT (14.3028 48.9064)";"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;NA;NA
+"C2KREM01";14.3028;48.9064;524;"Kremže";"Kremže, Mríc";"AKS3";"POINT (14.3028 48.9064)";"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;NA;NA
+"C2LEDE01";14.618333;48.933333;496;"Ledenice";"Ledenice";"MSS";"POINT (14.618333 48.933333)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"C2LIPC01";14.764722;48.910556;469;"Lipnice";"Lipnice";"MSS";"POINT (14.764722 48.910556)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"C2LIPN01";14.2383;48.6336;730;"Lipno";"Lipno";"MSS";"POINT (14.2383 48.6336)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"C2LODH01";14.9625;49.2133;526;"Lodhérov";"Lodhérov";"MSS";"POINT (14.9625 49.2133)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"C2MALO01";14.5803;48.6856;694;"Malonty";"Malonty";"MSS";"POINT (14.5803 48.6856)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"C2MILE01";14.3706;49.4517;442;"Milevsko";"Milevsko";"MSS";"POINT (14.3706 49.4517)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"C2NADV01";14.4653;49.5169;616;"Nadejkov";"Nadejkov, Vetrov";"AKS1";"POINT (14.4653 49.5169)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA
+"C2NBYS01";15.1;49.0189;583;"Nová Bystrice";"Nová Bystrice";"ASS";"POINT (15.1 49.0189)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"C2NETR01";14.4561;48.7931;616;"Netrebice";"Netrebice";"ASS";"POINT (14.4561 48.7931)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"C2NVCE01";15.068611;49.223056;509;"Nová Vcelnice";"Nová Vcelnice";"MSS";"POINT (15.068611 49.223056)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"C2OLSI01";14.51;49.436389;495;"Olší";"Olší";"ASS";"POINT (14.51 49.436389)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"C2PASC01";14.107778;48.610833;848;"Pasecná";"Pasecná, Prední Výton";"MSS";"POINT (14.107778 48.610833)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"C2PLAL01";14.7141;49.3426;425;"Planá nad Lužnicí";"Planá nad Lužnicí";"MSS";"POINT (14.7141 49.3426)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"C2POCA01";15.2342;49.2606;618;"Pocátky";"Pocátky";"AKS2";"POINT (15.2342 49.2606)";"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;"wind";NA
+"C2POHSTT";14.7028;48.6044;932;"Pohorí na Šumave";"Pohorí na Šumave";"TOTAL";"POINT (14.7028 48.6044)";NA;NA;NA;NA;NA;"snow";NA;NA;NA
+"C2PRID01";14.3608;48.7831;653;"Prídolí";"Prídolí";"MSS";"POINT (14.3608 48.7831)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"C2PVES01";14.649167;48.670278;773;"Pohorská Ves";"Pohorská Ves";"ASS";"POINT (14.649167 48.670278)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"C2ROZS01";14.391111;48.697778;627;"Rožmitál na Šumave";"Rožmitál na Šumave";"MSS";"POINT (14.391111 48.697778)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"C2RUDJ01";14.579722;49.003611;562;"Rudolfov";"Rudolfov, Jivno";"MSS";"POINT (14.579722 49.003611)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA
+"C2SEVE01";14.566111;49.101389;501;"Ševetín";"Ševetín";"MSS";"POINT (14.566111 49.101389)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"C2SHUT01";14.7158;48.7178;792;"Staré Hute";"Staré Hute";"ASS";"POINT (14.7158 48.7178)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"C2SLAV01";14.2433;48.7642;777;"Slavkov";"Slavkov";"MSS";"POINT (14.2433 48.7642)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"C2SOBN01";14.5344;48.7469;526;"Sobenov";"Sobenov";"MSS";"POINT (14.5344 48.7469)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"C2STRM01";15.2064;49.1631;582;"Strmilov";"Strmilov";"ASS";"POINT (15.2064 49.1631)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"C2STRN01";14.9136;49.0675;478;"Stráž nad Nežárkou";"Stráž nad Nežárkou";"ASS";"POINT (14.9136 49.0675)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"C2SUCH01";14.8669;48.8928;457;"Suchdol nad Lužnicí";"Suchdol nad Lužnicí";"MSS";"POINT (14.8669 48.8928)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"C2TABO01";14.70324;49.40527;467;"Tábor";"Tábor, Mešice";"AKS1";"POINT (14.70324 49.40527)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";"pres"
+"C2TREB01";14.7586;49.0622;428;"Trebon";"Trebon, Lužnice";"AKS2";"POINT (14.7586 49.0622)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA
+"C2TRHS01";14.6378;48.8433;468;"Trhové Sviny";"Trhové Sviny";"ASS";"POINT (14.6378 48.8433)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"C2TUCA01";14.8017;49.2919;454;"Tucapy";"Tucapy";"MSS";"POINT (14.8017 49.2919)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"C2VBRO01";14.3144;48.6175;559;"Vyšší Brod";"Vyšší Brod";"AKS1";"POINT (14.3144 48.6175)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA
+"C4JAPI01";13.421341;49.036142;1062;"Prášily";"Prášily, Javorí Pila";"ASNS";"POINT (13.421341 49.036142)";NA;NA;NA;NA;NA;NA;NA;NA;NA
+"C4KEPZ01";13.316389;49.183611;928;"Kepelské Zhurí";"Kepelské Zhurí";"ASNS";"POINT (13.316389 49.183611)";NA;NA;NA;NA;NA;NA;NA;NA;NA
+"C4STHU01";14.706464;48.71085;780;"Staré Hute";"Staré Hute";"ASNS";"POINT (14.706464 48.71085)";NA;NA;NA;NA;NA;NA;NA;NA;NA
+"C4VETR01";13.836944;48.978611;1157;"Vetrín";"Vetrín";"ASNS";"POINT (13.836944 48.978611)";NA;NA;NA;NA;NA;NA;NA;NA;NA
+"C4ZBYT01";13.969167;48.925833;792;"Zbytiny";"Zbytiny, Spálenec";"ASNS";"POINT (13.969167 48.925833)";NA;NA;NA;NA;NA;NA;NA;NA;NA
+"C4ZLST01";13.336389;49.104444;1197;"Zlatý stolecek";"Zlatý stolecek";"ASNS";"POINT (13.336389 49.104444)";NA;NA;NA;NA;NA;NA;NA;NA;NA
+"H1BILA01";15.766135;50.457596;322;"Bílá Tremešná";"Bílá Tremešná";"MSS";"POINT (15.766135 50.457596)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"H1CDUL01";15.712563;50.648678;715;"Cerný Dul";"Cerný Dul";"ASS";"POINT (15.712563 50.648678)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"H1CSKL01";16.061111;50.363056;290;"Ceská Skalice";"Ceská Skalice, Rozkoš";"AKS2";"POINT (16.061111 50.363056)";"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;"wind";NA
+"H1DDVU01";15.655815;50.654592;560;"Dolní Dvur";"Dolní Dvur, Rudolfov";"ASS";"POINT (15.655815 50.654592)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"H1HMAR01";15.818973;50.654577;585;"Horní Maršov";"Horní Maršov";"ASS";"POINT (15.818973 50.654577)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"H1HORI01";15.7653;50.3069;271;"Horineves";"Horineves";"MSS";"POINT (15.7653 50.3069)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"H1HOST01";15.739915;50.522919;356;"Hostinné";"Hostinné";"ASS";"POINT (15.739915 50.522919)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"H1LBOU01";15.544927;50.769883;1320;"Labská bouda";"Labská bouda";"AKS1";"POINT (15.544927 50.769883)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA
+"H1LUCB01";15.697859;50.735318;1413;"Lucní bouda";"Lucní bouda";"AKS1";"POINT (15.697859 50.735318)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA
+"H1NACH01";16.157201;50.395208;336;"Náchod";"Náchod";"MSS";"POINT (16.157201 50.395208)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"H1PECS01";15.728889;50.691944;816.3;"Pec pod Snežkou";"Pec pod Snežkou";"AMS1";"POINT (15.728889 50.691944)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";"pres"
+"H1POLI01";16.237511;50.537805;446;"Police nad Metují";"Police nad Metují";"ASS";"POINT (16.237511 50.537805)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"H1POMB01";15.82027;50.745472;1050;"Pomezní boudy";"Pomezní boudy, Horní Malá Úpa";"ASS";"POINT (15.82027 50.745472)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"H1STRA01";15.614722;50.663611;785;"Strážné";"Strážné";"ASS";"POINT (15.614722 50.663611)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"H1TEPL01";16.172543;50.578941;460;"Teplice nad Metují";"Teplice nad Metují";"MSS";"POINT (16.172543 50.578941)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"H1TEPZ01";16.147285;50.641099;531;"Teplice nad Metují";"Teplice nad Metují Zdonov";"AKS2";"POINT (16.147285 50.641099)";"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;"wind";NA
+"H1TRUT01";15.898311;50.558597;437;"Trutnov";"Trutnov";"AKS3";"POINT (15.898311 50.558597)";"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;"wind";NA
+"H1TRUT01";15.898311;50.558597;437;"Trutnov";"Trutnov";"AKS3";"POINT (15.898311 50.558597)";"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;"wind";NA
+"H1UPIC01";16.011618;50.506419;413;"Úpice";"Úpice";"AKS1";"POINT (16.011618 50.506419)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";"pres"
+"H1VELI01";15.832503;50.356612;299;"Velichovky";"Velichovky";"AKS2";"POINT (15.832503 50.356612)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA
+"H1VRCH01";15.646389;50.622778;482;"Vrchlabí";"Vrchlabí";"AKS1";"POINT (15.646389 50.622778)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";"pres"
+"H1ZACL01";15.907098;50.661205;644;"Žaclér";"Žaclér";"AKS2";"POINT (15.907098 50.661205)";"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;"wind";NA
+"H2BELC01";15.94687;50.186901;247;"Belec nad Orlicí";"Belec nad Orlicí";"MSS";"POINT (15.94687 50.186901)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"H2BILU01";16.209938;50.234904;319;"Bílý Újezd";"Bílý Újezd, Hroška";"ASS";"POINT (16.209938 50.234904)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"H2BORH01";16.086691;50.105254;254;"Borohrádek";"Borohrádek";"AKS2";"POINT (16.086691 50.105254)";"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;"wind";NA
+"H2CHOC01";16.200903;50.009544;282;"Chocen";"Chocen";"ASS";"POINT (16.200903 50.009544)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"H2CMEZ01";16.041312;50.282295;255;"Ceské Mezirící";"Ceské Mezirící";"ASS";"POINT (16.041312 50.282295)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"H2DEST01";16.351959;50.306667;656;"Deštné v Orlic. horách";"Deštné v Orlic. horách";"AKS1";"POINT (16.351959 50.306667)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA
+"H2DOBN01";16.281744;50.322178;627;"Dobrany";"Dobrany";"MSS";"POINT (16.281744 50.322178)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"H2KRAL01";16.73475;50.08289;538;"Králíky";"Králíky";"AKS1";"POINT (16.73475 50.08289)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA
+"H2LETO01";16.48707;50.03782;427;"Letohrad";"Letohrad";"MSS";"POINT (16.48707 50.03782)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"H2LUIS01";16.38829;50.287003;875;"Luisino údolí";"Luisino údolí, Deštné v Orlických horách";"ASS";"POINT (16.38829 50.287003)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA
+"H2OLES01";16.352829;50.374902;740;"Olešnice";"Olešnice, Cihálka";"ASS";"POINT (16.352829 50.374902)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"H2OLVO01";16.328611;50.365556;670;"Olešnice";"Olešnice, Vodárna";"ASS";"POINT (16.328611 50.365556)";NA;NA;NA;NA;"prec";NA;NA;NA;NA
+"H2ORLI01";16.667424;50.026453;570;"Orlicky";"Orlicky";"ASS";"POINT (16.667424 50.026453)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"H2ORLZ01";16.468455;50.280707;690;"Orlické Záhorí";"Orlické Záhorí";"MSS";"POINT (16.468455 50.280707)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"H2POLO01";16.322222;50.350278;747.24;"Polom";"Polom, Sedlonov";"AMS";"POINT (16.322222 50.350278)";NA;NA;NA;NA;NA;NA;NA;NA;NA
+"H2ROKY01";16.460258;50.164432;577;"Rokytnice v Orlic.horách";"Rokytnice v Orlic.horách";"AKS1";"POINT (16.460258 50.164432)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA
+"H2RYCH01";16.270033;50.164879;335;"Rychnov nad Knežnou";"Rychnov nad Knežnou";"AKS1";"POINT (16.270033 50.164879)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA
+"H2SLAZ01";16.3875;50.1375;401;"Slatina nad Zdobnicí";"Slatina nad Zdobnicí";"ASS";"POINT (16.3875 50.1375)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"H2USTI01";16.422222;49.980278;401.7;"Ústí nad Orlicí";"Ústí nad Orlicí";"AMS1";"POINT (16.422222 49.980278)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";"pres"
+"H2ZAMB01";16.45477;50.069195;405;"Žamberk";"Žamberk";"AKS2";"POINT (16.45477 50.069195)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA
+"H2ZDOB01";16.408505;50.247678;671;"Zdobnice";"Zdobnice";"ASS";"POINT (16.408505 50.247678)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"H3BAHN01";15.234033;49.866846;420;"Bahno";"Bahno";"ASS";"POINT (15.234033 49.866846)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"H3BEST01";15.569633;49.829595;333;"Bestvina";"Bestvina, Parížov";"MSS";"POINT (15.569633 49.829595)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"H3BROU01";16.343617;50.569966;373;"Broumov";"Broumov";"AKS1";"POINT (16.343617 50.569966)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA
+"H3CASL01";15.394281;49.901675;251;"Cáslav";"Cáslav, Nové mesto";"AKS3";"POINT (15.394281 49.901675)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA
+"H3CASL01";15.394281;49.901675;251;"Cáslav";"Cáslav, Nové mesto";"AKS3";"POINT (15.394281 49.901675)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA
+"H3CHLM01";15.462251;50.137135;213;"Chlumec nad Cidlinou";"Chlumec nad Cidlinou, Lucice";"MSS";"POINT (15.462251 50.137135)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"H3CHTU01";15.386389;49.940833;238.2;"Chotusice";"Chotusice, letište";"AMS";"POINT (15.386389 49.940833)";NA;NA;NA;NA;NA;NA;NA;NA;NA
+"H3DOBC01";15.638309;50.143231;275;"Dobrenice";"Dobrenice";"MSS";"POINT (15.638309 50.143231)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA
+"H3DYMO01";15.201165;50.248346;208;"Dymokury";"Dymokury";"ASS";"POINT (15.201165 50.248346)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"H3GAJE01";16.410023;49.821051;515;"Gajer";"Gajer, Janov";"AKS1";"POINT (16.410023 49.821051)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA
+"H3HAMR01";15.914045;49.738323;605;"Hamry";"Hamry";"MSS";"POINT (15.914045 49.738323)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"H3HERM01";15.673986;49.946639;275;"Hermanuv Mestec";"Hermanuv Mestec";"ASS";"POINT (15.673986 49.946639)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"H3HOLO01";15.57805;50.376952;321;"Holovousy";"Holovousy";"AKS1";"POINT (15.57805 50.376952)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA
+"H3HRAD01";15.838452;50.177649;278;"Hradec Králové";"Hradec Králové, Nový Hradec Králové";"AKS1";"POINT (15.838452 50.177649)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";"pres"
+"H3HRTY01";15.909774;49.962057;241;"Hrochuv Týnec";"Hrochuv Týnec";"ASS";"POINT (15.909774 49.962057)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"H3HRUS01";16.19522;49.916517;291;"Hrušová";"Hrušová";"AKS1";"POINT (16.19522 49.916517)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA
+"H3JICI01";15.352626;50.439511;283;"Jicín";"Jicín";"AKS1";"POINT (15.352626 50.439511)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";"pres"
+"H3KONA01";15.284988;50.03844;209;"Konárovice";"Konárovice";"ASS";"POINT (15.284988 50.03844)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"H3KRIZ01";15.774205;49.865999;432;"Križanovice";"Križanovice";"MSS";"POINT (15.774205 49.865999)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"H3KRUC01";15.844811;49.688077;559;"Krucemburk";"Krucemburk";"MSS";"POINT (15.844811 49.688077)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"H3KUTH01";15.288261;49.965934;260;"Kutná Hora";"Kutná Hora, Sedlec";"MSS";"POINT (15.288261 49.965934)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"H3LBEL01";15.588567;50.427437;299;"Lázne Belohrad";"Lázne Belohrad";"AKS2";"POINT (15.588567 50.427437)";"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;"wind";NA
+"H3LIBA01";15.214447;50.370822;240;"Libán";"Libán";"ASS";"POINT (15.214447 50.370822)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"H3LIBC01";15.704862;49.744164;425;"Libice nad Doubravou";"Libice nad Doubravou";"AKS2";"POINT (15.704862 49.744164)";"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;"wind";NA
+"H3LICO01";15.551646;49.914705;335;"Licomerice";"Licomerice";"MSS";"POINT (15.551646 49.914705)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"H3LUBN01";16.190554;49.773006;560;"Lubná";"Lubná";"ASS";"POINT (16.190554 49.773006)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"H3MOKO01";15.56668;50.016395;255;"Mokošín";"Mokošín";"AKS1";"POINT (15.56668 50.016395)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA
+"H3NBYD01";15.497443;50.237553;232;"Nový Bydžov";"Nový Bydžov";"AKS2";"POINT (15.497443 50.237553)";"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;"wind";NA
+"H3NECH01";15.659823;50.242972;245;"Nechanice - Lubno";"Nechanice - Lubno";"MSS";"POINT (15.659823 50.242972)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"H3NHRA01";16.147668;49.850201;400;"Nové Hrady";"Nové Hrady";"ASS";"POINT (16.147668 49.850201)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"H3PARD01";15.740273;50.016111;224.21;"Pardubice";"Pardubice, letište";"AMS";"POINT (15.740273 50.016111)";NA;NA;NA;NA;NA;NA;NA;NA;NA
+"H3PODE01";15.133554;50.140503;189;"Podebrady";"Podebrady";"AKS1";"POINT (15.133554 50.140503)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";"pres"
+"H3RADO01";15.368164;50.106526;227;"Radovesnice II.";"Radovesnice II.";"AKS2";"POINT (15.368164 50.106526)";"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;"wind";NA
+"H3SECA01";15.6479;49.844725;529;"Sec";"Sec";"AKS1";"POINT (15.6479 49.844725)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA
+"H3SKUT01";15.996153;49.834947;457;"Skutec";"Skutec";"AKS2";"POINT (15.996153 49.834947)";"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;"wind";NA
+"H3SLAT01";15.393348;50.379018;254;"Slatiny";"Slatiny, Milíceves";"ASS";"POINT (15.393348 50.379018)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA
+"H3SVOD01";15.787769;50.222602;240;"Hradec Králové";"Hradec Králové, Svobodné Dvory";"AKS1";"POINT (15.787769 50.222602)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA
+"H3SVRA01";16.034167;49.735;734;"Svratouch";"Svratouch";"AMS1";"POINT (16.034167 49.735)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";"pres"
+"H3TRST01";16.341265;49.807087;435;"Trstenice";"Trstenice";"MSS";"POINT (16.341265 49.807087)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"H3VMYT01";16.167796;49.962009;278;"Vysoké Mýto";"Vysoké Mýto";"MSS";"POINT (16.167796 49.962009)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"H3VYSC01";15.822131;49.755424;548;"Vysocina";"Vysocina, Jancour";"MSS";"POINT (15.822131 49.755424)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"H3ZBYS01";15.329835;49.78686;490;"Zbýšov";"Zbýšov, Dobrovítov";"AKS2";"POINT (15.329835 49.78686)";"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;"wind";NA
+"H3ZEHU01";15.287765;50.133757;204;"Žehun";"Žehun";"MSS";"POINT (15.287765 50.133757)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"H4DDHP01";15.654731;50.676074;875;"Dolní Dvur";"Dolní Dvur, Hanapetrova paseka";"ASNS";"POINT (15.654731 50.676074)";NA;NA;NA;NA;NA;NA;NA;NA;NA
+"H4LUIS01";16.38829;50.287003;875;"Luisino údolí";"Luisino údolí, Deštné v Orlických horách";"ASNS";"POINT (16.38829 50.287003)";NA;NA;NA;NA;NA;NA;NA;NA;NA
+"H4SUVR01";16.693368;50.049859;995;"Suchý vrch";"Suchý vrch";"ASNS";"POINT (16.693368 50.049859)";NA;NA;NA;NA;NA;NA;NA;NA;NA
+"H7SNEZ01";15.740278;50.735833;1602;"Snežka";"Snežka, Poštovna";"AMS3";"POINT (15.740278 50.735833)";"tmean";"tmax";"tmin";"humid";NA;NA;NA;"wind";NA
+"L1BORO01";13.727867;49.623944;651;"Borovno";"Borovno, Míšov";"ASS";"POINT (13.727867 49.623944)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"L1CACH01";13.301694;49.264136;729;"Cachrov";"Cachrov";"ASS";"POINT (13.301694 49.264136)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"L1CERCTT";12.785182;49.384633;1016;"Cerchov";"Cerchov, Cerchov";"TOTAL";"POINT (12.785182 49.384633)";NA;NA;NA;NA;NA;NA;NA;NA;NA
+"L1CHUD01";13.176421;49.465452;490;"Chudenice";"Chudenice";"ASS";"POINT (13.176421 49.465452)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"L1CKUB01";12.857804;49.367941;549;"Ceská Kubice";"Ceská Kubice";"ASS";"POINT (12.857804 49.367941)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"L1DNES01";13.267176;49.601684;370;"Dnešice";"Dnešice";"MSS";"POINT (13.267176 49.601684)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"L1DOMA01";12.922385;49.444716;458;"Domažlice";"Domažlice";"AKS1";"POINT (12.922385 49.444716)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA
+"L1HOJS01";13.197146;49.212473;866;"Železná Ruda";"Železná Ruda, Hojsova Stráž";"AKS1";"POINT (13.197146 49.212473)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA
+"L1HTYN01";12.943746;49.528213;374;"Horšovský Týn";"Horšovský Týn";"ASS";"POINT (12.943746 49.528213)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"L1JEZHTT";13.184692;49.168686;1343;"Jezerní hora";"Jezerní hora";"TOTAL";"POINT (13.184692 49.168686)";NA;NA;NA;NA;NA;NA;NA;NA;NA
+"L1KDYN01";13.045733;49.393642;475;"Kdyne";"Kdyne";"MSS";"POINT (13.045733 49.393642)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"L1KLAT01";13.303016;49.39042;421;"Klatovy";"Klatovy";"AKS1";"POINT (13.303016 49.39042)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";"pres"
+"L1LIBK01";13.135593;49.366344;574;"Libkov";"Libkov";"MSS";"POINT (13.135593 49.366344)";"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;"wind";NA
+"L1LOVC01";13.493545;49.402384;597;"Lovcice";"Lovcice, Kvasetice";"ASS";"POINT (13.493545 49.402384)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"L1LUZA01";13.317522;49.54908;358;"Lužany";"Lužany";"MSS";"POINT (13.317522 49.54908)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"L1MARATT";13.73075;49.58855;782;"Marásek";"Marásek, Marásek na Burku";"TOTAL";"POINT (13.73075 49.58855)";NA;NA;NA;NA;NA;NA;NA;NA;NA
+"L1NEPO01";13.589389;49.486924;471;"Nepomuk";"Nepomuk";"AKS1";"POINT (13.589389 49.486924)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA
+"L1NETU01";13.432035;49.61559;464;"Netunice";"Netunice";"MSS";"POINT (13.432035 49.61559)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"L1NEZV01";13.528521;49.635765;371;"Nezvestice";"Nezvestice";"ASS";"POINT (13.528521 49.635765)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"L1NYRS01";13.145794;49.294244;451;"Nýrsko";"Nýrsko";"MSS";"POINT (13.145794 49.294244)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"L1PANCTT";13.252276;49.17722;1189;"Pancír";"Pancír";"TOTAL";"POINT (13.252276 49.17722)";NA;NA;NA;NA;NA;NA;NA;NA;NA
+"L1PIVO01";12.741932;49.490754;619;"Pivon";"Pivon";"ASS";"POINT (12.741932 49.490754)";NA;NA;NA;NA;"prec";NA;NA;NA;NA
+"L1PLMI01";13.378889;49.764722;359.8;"Plzen";"Plzen, Mikulka";"AMS1";"POINT (13.378889 49.764722)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";"pres"
+"L1PLZB01";13.386411;49.788378;331;"Plzen";"Plzen, Bolevec";"AKS1";"POINT (13.386411 49.788378)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA
+"L1SEC001";13.506002;49.587397;398;"Sec";"Sec";"MSS";"POINT (13.506002 49.587397)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"L1SPIC01";13.231136;49.177061;945;"Železná Ruda";"Železná Ruda, Špicák";"MSS";"POINT (13.231136 49.177061)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"L1SPOR01";13.604538;49.615175;420;"Spálené Porící";"Spálené Porící";"MSS";"POINT (13.604538 49.615175)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"L1STAN01";13.067369;49.552537;362;"Stankov";"Stankov";"AKS1";"POINT (13.067369 49.552537)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA
+"L1STOD01";13.166901;49.639696;337;"Stod";"Stod";"ASS";"POINT (13.166901 49.639696)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"L1STRA01";13.246905;49.30562;477;"Strážov";"Strážov";"MSS";"POINT (13.246905 49.30562)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"L1TRHA01";12.83535;49.41688;471;"Trhanov";"Trhanov, Chodov";"MSS";"POINT (12.83535 49.41688)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"L1VSER01";12.984558;49.343917;445;"Všeruby";"Všeruby";"MSS";"POINT (12.984558 49.343917)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"L1ZINK01";13.497252;49.478113;459;"Žinkovy";"Žinkovy";"MSS";"POINT (13.497252 49.478113)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"L1ZIVO01";13.681495;49.470036;484;"Životice";"Životice";"MSS";"POINT (13.681495 49.470036)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"L1ZRUD01";13.228729;49.138245;754;"Železná Ruda";"Železná Ruda";"ASS";"POINT (13.228729 49.138245)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"L2BELA01";12.581084;49.583431;511;"Železná";"Železná";"ASS";"POINT (12.581084 49.583431)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"L2BEZV01";13.054363;49.993664;699;"Bezverov";"Bezverov";"ASS";"POINT (13.054363 49.993664)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"L2BORT01";12.770725;49.710653;471;"Bor";"Bor";"MSS";"POINT (12.770725 49.710653)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"L2DARM01";12.879505;49.643292;442;"Staré Sedlo";"Staré Sedlo, Darmyšl";"ASS";"POINT (12.879505 49.643292)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"L2DOBR01";13.689215;49.717616;417;"Dobrív";"Dobrív";"MSS";"POINT (13.689215 49.717616)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"L2DYLE01";12.502849;49.968079;939;"Dylen";"Dylen";"AKS2";"POINT (12.502849 49.968079)";"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;"wind";NA
+"L2HBEL01";13.248312;49.884347;513;"Horní Belá";"Horní Belá, Vrtbo";"MSS";"POINT (13.248312 49.884347)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"L2HERM01";13.57133;50.148529;407;"Hermanov";"Hermanov";"AKS2";"POINT (13.57133 50.148529)";"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;"wind";NA
+"L2HOLO01";13.71137;49.77498;433;"Holoubkov";"Holoubkov, Medový Újezd";"MSS";"POINT (13.71137 49.77498)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"L2HROM01";13.445309;49.848142;336;"Hromnice";"Hromnice";"MSS";"POINT (13.445309 49.848142)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"L2KONL01";12.975956;49.884787;530;"Konstantinovy Lázne";"Konstantinovy Lázne";"AKS1";"POINT (12.975956 49.884787)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA
+"L2KOUN01";13.672193;50.214902;418;"Kounov";"Kounov";"ASS";"POINT (13.672193 50.214902)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"L2KRAL01";13.494007;49.981823;449;"Kralovice";"Kralovice";"AKS1";"POINT (13.494007 49.981823)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA
+"L2KRAU01";12.920958;50.071286;650;"Krásné Údolí";"Krásné Údolí";"AKS1";"POINT (12.920958 50.071286)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA
+"L2KVES01";13.861277;49.990212;405;"Karlova Ves";"Karlova Ves";"ASS";"POINT (13.861277 49.990212)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"L2LIBL01";13.5451;49.916487;299;"Liblín";"Liblín";"ASS";"POINT (13.5451 49.916487)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"L2MANE01";13.22757;49.992466;436;"Manetín";"Manetín";"MSS";"POINT (13.22757 49.992466)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"L2MLAV01";12.695966;49.990619;696;"Mariánské Lázne";"Mariánské Lázne, vodárna";"AKS1";"POINT (12.695966 49.990619)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA
+"L2NEMA01";12.716909;49.431422;529;"Nemanice";"Nemanice, Nemanicky";"MSS";"POINT (12.716909 49.431422)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"L2ORAC01";13.54839;50.10814;401;"Orácov";"Orácov";"MSS";"POINT (13.54839 50.10814)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"L2PLAN01";12.735097;49.870952;505;"Planá";"Planá";"ASS";"POINT (12.735097 49.870952)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"L2PLAS01";13.382176;49.933074;330;"Plasy";"Plasy";"MSS";"POINT (13.382176 49.933074)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"L2PLZR01";13.323199;49.765499;320;"Plzen";"Plzen, Radcice";"MSS";"POINT (13.323199 49.765499)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"L2PRIM01";12.678056;49.669444;742.76;"Primda";"Primda";"AMS1";"POINT (12.678056 49.669444)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";"pres"
+"L2RAKO01";13.738906;50.099307;313;"Rakovník";"Rakovník";"ASS";"POINT (13.738906 50.099307)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"L2ROKY01";13.582576;49.73725;370;"Rokycany";"Rokycany";"ASS";"POINT (13.582576 49.73725)";NA;NA;NA;NA;"prec";NA;NA;NA;NA
+"L2SLAB01";13.690636;49.992453;389;"Slabce";"Slabce, Modrejovice";"MSS";"POINT (13.690636 49.992453)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"L2STRA01";13.753217;49.742781;526;"Strašice";"Strašice";"ASS";"POINT (13.753217 49.742781)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"L2STRI01";12.996866;49.75451;412;"Stríbro";"Stríbro";"AKS2";"POINT (12.996866 49.75451)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA
+"L2TACH01";12.623135;49.798357;487;"Tachov";"Tachov";"AKS3";"POINT (12.623135 49.798357)";"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;NA;NA
+"L2TACH01";12.623135;49.798357;487;"Tachov";"Tachov";"AKS3";"POINT (12.623135 49.798357)";"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;NA;NA
+"L2TERE01";13.707071;49.901862;402;"Terešov";"Terešov";"ASS";"POINT (13.707071 49.901862)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"L2TSEK01";12.616463;49.943647;672;"Tri Sekery";"Tri Sekery";"MSS";"POINT (12.616463 49.943647)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"L2ULIC01";13.143405;49.759189;428;"Úlice";"Úlice";"ASS";"POINT (13.143405 49.759189)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"L2UNES01";13.128163;49.894104;573;"Únešov";"Únešov, Cíhaná";"MSS";"POINT (13.128163 49.894104)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"L2UTER01";13.001143;49.938609;489;"Úterý";"Úterý";"MSS";"POINT (13.001143 49.938609)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"L2VERU01";13.172377;50.140984;582;"Verušicky";"Verušicky";"MSS";"POINT (13.172377 50.140984)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"L2VICH01";12.945816;49.79351;506;"Víchov";"Víchov";"MSS";"POINT (12.945816 49.79351)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"L2ZBIR01";13.751748;49.853987;476;"Zbiroh";"Zbiroh, Švabín";"AKS2";"POINT (13.751748 49.853987)";"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;"wind";NA
+"L2ZLUT01";13.161287;50.096136;554;"Žlutice";"Žlutice";"ASS";"POINT (13.161287 50.096136)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"L3ABER01";12.816447;50.367742;893;"Abertamy";"Abertamy";"ASS";"POINT (12.816447 50.367742)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"L3AS0001";12.179572;50.220602;675;"Aš";"Aš";"AKS1";"POINT (12.179572 50.220602)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA
+"L3BECO01";12.836484;50.081963;535;"Becov nad Teplou";"Becov nad Teplou";"ASS";"POINT (12.836484 50.081963)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"L3CHEB01";12.391389;50.068333;483;"Cheb";"Cheb";"AMS1";"POINT (12.391389 50.068333)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";"pres"
+"L3FRAL01";12.351238;50.116796;435;"Františkovy Lázne";"Františkovy Lázne";"MSS";"POINT (12.351238 50.116796)";"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;"wind";NA
+"L3HABA01";12.54853;50.180156;484;"Habartov";"Habartov";"MSS";"POINT (12.54853 50.180156)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"L3HAZL01";12.270389;50.159224;551;"Hazlov";"Hazlov";"MSS";"POINT (12.270389 50.159224)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"L3HROZ01";12.389416;50.025396;452;"Starý Hroznatov";"Starý Hroznatov";"MSS";"POINT (12.389416 50.025396)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"L3KLIN01";12.967957;50.3948;1236;"Klínovec";"Klínovec";"AKS2";"POINT (12.967957 50.3948)";"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;"wind";NA
+"L3KVAL01";12.914167;50.201667;603;"Karlovy Vary";"Karlovy Vary, Olšová Vrata";"AMS";"POINT (12.914167 50.201667)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";"pres"
+"L3KVAZ01";12.878151;50.227229;377;"Karlovy Vary";"Karlovy Vary";"AKS4";"POINT (12.878151 50.227229)";"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;"wind";NA
+"L3LAZY01";12.62322;50.05;845;"Kynžvart";"Kynžvart, Lazy";"ASS";"POINT (12.62322 50.05)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"L3LUBY01";12.400238;50.256881;524;"Luby";"Luby";"ASS";"POINT (12.400238 50.256881)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"L3LYSITT";12.651237;50.022636;980;"Lysina";"Lysina";"TOTAL";"POINT (12.651237 50.022636)";NA;NA;NA;NA;NA;NA;NA;NA;NA
+"L3NEJD01";12.715486;50.335684;609;"Nejdek";"Nejdek";"AKS3";"POINT (12.715486 50.335684)";"tmean";"tmax";"tmin";NA;"prec";"snow";NA;NA;NA
+"L3NEJD01";12.715486;50.335684;609;"Nejdek";"Nejdek";"AKS3";"POINT (12.715486 50.335684)";"tmean";"tmax";"tmin";NA;"prec";"snow";NA;NA;NA
+"L3OLOV01";12.558916;50.246202;545;"Oloví";"Oloví";"MSS";"POINT (12.558916 50.246202)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"L3PREB01";12.615467;50.37246;904;"Prebuz";"Prebuz";"ASS";"POINT (12.615467 50.37246)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"L3SEMN01";12.993213;50.245531;367;"Šemnice";"Šemnice, Dubina";"MSS";"POINT (12.993213 50.245531)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"L3SIND01";12.597466;50.317449;589;"Šindelová";"Šindelová, Obora";"AKS1";"POINT (12.597466 50.317449)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA
+"L3SOKO01";12.639266;50.176985;407;"Sokolov";"Sokolov";"AKS2";"POINT (12.639266 50.176985)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA
+"L3STRA01";13.051677;50.338823;330;"Stráž nad Ohrí";"Stráž nad Ohrí";"ASS";"POINT (13.051677 50.338823)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"L4LAKY01";12.641703;50.011397;835;"Lázne Kynžvart";"Lázne Kynžvart, Královka";"ASNS";"POINT (12.641703 50.011397)";NA;NA;NA;NA;NA;NA;NA;NA;NA
+"L4PERK01";12.779285;50.363232;842;"Pernink";"Pernink";"ASNS";"POINT (12.779285 50.363232)";NA;NA;NA;NA;NA;NA;NA;NA;NA
+"L4PRAH01";13.81838;49.65889;862;"Praha";"Praha, Brdy";"ASNS";"POINT (13.81838 49.65889)";NA;NA;NA;NA;NA;NA;NA;NA;NA
+"L4RYBN01";12.69832;49.515385;710;"Rybník";"Rybník";"ASNS";"POINT (12.69832 49.515385)";NA;NA;NA;NA;NA;NA;NA;NA;NA
+"L4TESL01";13.761819;49.619132;720;"Vešín";"Vešín, Teslíny";"ASNS";"POINT (13.761819 49.619132)";NA;NA;NA;NA;NA;NA;NA;NA;NA
+"O1BEDO01";17.1991;50.15446;565;"Belá pod Pradedem";"Belá pod Pradedem, Domašov";"MSS";"POINT (17.1991 50.15446)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"O1BELA01";17.1678;50.1586;670;"Belá pod Pradedem";"Belá pod Pradedem, Filipovice";"ASS";"POINT (17.1678 50.1586)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"O1BELO01";17.8042;49.5869;306;"Belotín";"Belotín";"AKS1";"POINT (17.8042 49.5869)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA
+"O1BILA01";18.5233;49.4547;720;"Bílá";"Bílá, Konecná";"AKS2";"POINT (18.5233 49.4547)";"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;"wind";NA
+"O1BILH01";18.3806;49.4222;770;"Bílá";"Bílá, Hlavatá";"MSS";"POINT (18.3806 49.4222)";"tmean";NA;NA;NA;"prec";"snow";NA;NA;NA
+"O1BILO01";17.9917;49.7617;290;"Bílovec";"Bílovec";"MSS";"POINT (17.9917 49.7617)";"tmean";NA;NA;NA;"prec";"snow";NA;NA;NA
+"O1BOHU01";18.3692;49.882;237;"Bohumín";"Bohumín, Záblatí";"AKS2";"POINT (18.3692 49.882)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA
+"O1BUDI01";17.6319;49.7972;530;"Budišov nad Budišovkou";"Budišov nad Budišovkou";"MSS";"POINT (17.6319 49.7972)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"O1CANTTT";18.7958;49.6792;974;"Velká Cantoryje";"Velká Cantoryje";"TOTAL";"POINT (18.7958 49.6792)";NA;NA;NA;NA;NA;NA;NA;NA;NA
+"O1CERN01";17.1536;50.3092;320;"Cerná Voda";"Cerná Voda";"MSS";"POINT (17.1536 50.3092)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"O1CERV01";17.541944;49.777222;748.13;"Cervená";"Cervená";"AMS1";"POINT (17.541944 49.777222)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";"pres"
+"O1CHLN01";18.119769;49.991679;258;"Chuchelná";"Chuchelná";"AKS4";"POINT (18.119769 49.991679)";"tmean";"tmax";"tmin";"humid";"prec";NA;NA;NA;NA
+"O1DEHY01";18.1667;49.8694;292;"Dehylov";"Dehylov";"MSS";"POINT (18.1667 49.8694)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"O1DLOU01";17.5011;49.9592;520;"Dlouhá Strán";"Dlouhá Strán";"MSS";"POINT (17.5011 49.9592)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"O1FMOL01";18.315833;49.666667;312;"Frýdek-Místek";"Frýdek-Místek, Místek";"AKS2";"POINT (18.315833 49.666667)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA
+"O1FREN01";18.240568;49.541055;436;"Frenštát pod Radhoštem";"Frenštát pod Radhoštem";"AKS2";"POINT (18.240568 49.541055)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA
+"O1FULN01";17.93251;49.7235;340;"Fulnek";"Fulnek, Kostelec";"MSS";"POINT (17.93251 49.7235)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"O1GRUNTT";18.495;49.4908;855;"Grun";"Grun, Kozlena";"TOTAL";"POINT (18.495 49.4908)";NA;NA;NA;NA;NA;NA;NA;NA;NA
+"O1HAMR01";18.4389;49.4681;527;"Staré Hamry";"Staré Hamry, Samcanka";"MSS";"POINT (18.4389 49.4681)";NA;"tmax";"tmin";NA;"prec";"snow";NA;NA;NA
+"O1HART01";17.575278;49.888611;516;"Slezská Harta";"Slezská Harta";"AKS3";"POINT (17.575278 49.888611)";"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;NA;NA
+"O1HART01";17.575278;49.888611;516;"Slezská Harta";"Slezská Harta";"AKS3";"POINT (17.575278 49.888611)";"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;NA;NA
+"O1HAT001";18.2542;49.9458;220;"Hat";"Hat";"MSS";"POINT (18.2542 49.9458)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"O1HAVI01";18.4406;49.7656;259;"Havírov";"Havírov, Bludovice";"MSS";"POINT (18.4406 49.7656)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"O1HERM01";17.3816;50.1985;665;"Hermanovice";"Hermanovice";"MSS";"POINT (17.3816 50.1985)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"O1HOLO01";18.637779;49.534088;582;"Horní Lomná";"Horní Lomná";"AKS3";"POINT (18.637779 49.534088)";"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;NA;NA
+"O1HOLO01";18.637779;49.534088;582;"Horní Lomná";"Horní Lomná";"AKS3";"POINT (18.637779 49.534088)";"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;NA;NA
+"O1HRAB01";18.0533;49.8783;395;"Hrabyne";"Hrabyne";"MSS";"POINT (18.0533 49.8783)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"O1HRAD01";17.8769;49.8728;275;"Hradec nad Moravicí";"Hradec nad Moravicí";"MSS";"POINT (17.8769 49.8728)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"O1HRCA01";18.834167;49.521111;612;"Hrcava";"Hrcava";"MSS";"POINT (18.834167 49.521111)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"O1HUKV01";18.2208;49.6428;292;"Hukvaldy";"Hukvaldy, Rychaltice";"MSS";"POINT (18.2208 49.6428)";"tmean";NA;NA;NA;"prec";"snow";NA;NA;NA
+"O1HZIV01";17.949444;49.690556;256;"Hladké Životice";"Hladké Životice";"AKS";"POINT (17.949444 49.690556)";"tmean";"tmax";"tmin";"humid";"prec";NA;NA;NA;NA
+"O1JABL01";18.7503;49.5875;380;"Jablunkov";"Jablunkov, Návsí";"AKS2";"POINT (18.7503 49.5875)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";"pres"
+"O1JAVO01";17.0075;50.3956;284;"Javorník";"Javorník";"AKS1";"POINT (17.0075 50.3956)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";"pres"
+"O1JAVR01";18.627222;49.628333;930;"Trinec";"Trinec, Oldrichovice, Javorový";"AKS4";"POINT (18.627222 49.628333)";"tmean";"tmax";"tmin";"humid";NA;NA;NA;"wind";NA
+"O1JESE01";17.183333;50.231111;502;"Jeseník";"Jeseník";"AKS2";"POINT (17.183333 50.231111)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA
+"O1JISL01";17.5231;50.2525;358.2;"Jindrichov";"Jindrichov";"MSS";"POINT (17.5231 50.2525)";"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;"wind";NA
+"O1KARL01";17.454841;50.109463;502;"Karlovice";"Karlovice";"ASS";"POINT (17.454841 50.109463)";"tmean";NA;NA;NA;"prec";"snow";NA;NA;NA
+"O1KARV01";18.5332;49.8549;224;"Karviná";"Karviná";"AKS2";"POINT (18.5332 49.8549)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";"pres"
+"O1KAST01";17.306832;50.074053;795;"Karlova Studánka";"Karlova Studánka";"AKS3";"POINT (17.306832 50.074053)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";"pres"
+"O1KAST01";17.306832;50.074053;795;"Karlova Studánka";"Karlova Studánka";"AKS3";"POINT (17.306832 50.074053)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";"pres"
+"O1KLIM01";18.1347;49.7844;240;"Klimkovice";"Klimkovice";"MSS";"POINT (18.1347 49.7844)";"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;"wind";NA
+"O1KLINTT";17.1967;50.12;1099;"Malý Klín";"Malý Klín";"TOTAL";"POINT (17.1967 50.12)";NA;NA;NA;NA;NA;NA;NA;NA;NA
+"O1KRNO01";17.6922;50.078;360;"Krnov";"Krnov";"AKS2";"POINT (17.6922 50.078)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";"pres"
+"O1LICH01";17.633611;50.011111;389;"Lichnov";"Lichnov";"ASS";"POINT (17.633611 50.011111)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"O1LORY01";17.41431;49.8691;594;"Lomnice";"Lomnice";"ASS";"POINT (17.41431 49.8691)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"O1LUCI01";18.4425;49.7308;300;"Lucina";"Lucina";"AKS1";"POINT (18.4425 49.7308)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA
+"O1LYSA01";18.4475;49.546111;1322.03;"Lysá hora";"Lysá hora";"AMS1";"POINT (18.4475 49.546111)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";"pres"
+"O1MAMO01";17.259444;50.025278;775;"Malá Morávka";"Malá Morávka, Karlov";"MSS";"POINT (17.259444 50.025278)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"O1MELC01";17.756944;49.849444;478;"Melc";"Melc";"MSS";"POINT (17.756944 49.849444)";"tmean";NA;NA;NA;"prec";"snow";NA;NA;NA
+"O1MIKU01";17.3231;50.3006;321;"Mikulovice";"Mikulovice";"MSS";"POINT (17.3231 50.3006)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"O1MOLU01";18.55;49.532588;600;"Morávka";"Morávka, Lúcka";"MSS";"POINT (18.55 49.532588)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"O1MORK01";18.057778;49.5414;345;"Morkov";"Morkov";"AKS3";"POINT (18.057778 49.5414)";"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;"wind";NA
+"O1MORK01";18.057778;49.5414;345;"Morkov";"Morkov";"AKS3";"POINT (18.057778 49.5414)";"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;"wind";NA
+"O1MOSN01";18.112778;49.691944;252.8;"Mošnov";"Mošnov";"AMS";"POINT (18.112778 49.691944)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";"pres"
+"O1NERA01";18.4147;49.9153;208;"Dolní Lutyne";"Dolní Lutyne, Nerad";"MSS";"POINT (18.4147 49.9153)";"tmean";NA;NA;NA;"prec";"snow";NA;NA;NA
+"O1NOJI01";18.031111;49.6;291;"Nový Jicín";"Nový Jicín";"MSS";"POINT (18.031111 49.6)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA
+"O1NYDE01";18.755463;49.655692;400;"Nýdek";"Nýdek";"MSS";"POINT (18.755463 49.655692)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"O1NYFI01";18.788599;49.616676;745;"Nýdek";"Nýdek, Filipka";"AKS4";"POINT (18.788599 49.616676)";"tmean";"tmax";"tmin";"humid";"prec";NA;NA;NA;NA
+"O1ODRY01";17.82;49.670833;305;"Odry";"Odry";"MSS";"POINT (17.82 49.670833)";"tmean";NA;NA;NA;"prec";"snow";NA;NA;NA
+"O1OPAV01";17.8761;49.9197;270;"Opava";"Opava, Otice";"AKS1";"POINT (17.8761 49.9197)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA
+"O1OSCE01";18.400556;49.525833;435;"Ostravice";"Ostravice";"MSS";"POINT (18.400556 49.525833)";"tmean";NA;NA;NA;"prec";"snow";NA;NA;NA
+"O1OSLZ01";18.317553;49.844977;269;"Ostrava";"Ostrava, Slezská Ostrava";"AKS4";"POINT (18.317553 49.844977)";"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;"wind";NA
+"O1OSOB01";17.7135;50.2709;238;"Osoblaha";"Osoblaha";"AKS4";"POINT (17.7135 50.2709)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA
+"O1PASK01";18.3031;49.7244;254;"Paskov";"Paskov";"MSS";"POINT (18.3031 49.7244)";"tmean";NA;NA;NA;"prec";"snow";NA;NA;NA
+"O1PORU01";18.159444;49.8253;238.6;"Ostrava";"Ostrava, Poruba";"AKS1";"POINT (18.159444 49.8253)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";"pres"
+"O1PRIB01";18.1342;49.6403;307;"Príbor";"Príbor";"MSS";"POINT (18.1342 49.6403)";"tmean";NA;NA;NA;"prec";"snow";NA;NA;NA
+"O1PSTR01";18.348889;49.559167;400;"Pstruží";"Pstruží";"MSS";"POINT (18.348889 49.559167)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"O1RAMZ01";17.0656;50.1944;740;"Ostružná";"Ostružná, Ramzová";"MSS";"POINT (17.0656 50.1944)";"tmean";NA;NA;NA;"prec";"snow";NA;NA;NA
+"O1RASK01";18.4708;49.6228;397;"Raškovice";"Raškovice";"MSS";"POINT (18.4708 49.6228)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"O1ROPI01";18.6125;49.6975;327;"Ropice";"Ropice";"AKS3";"POINT (18.6125 49.6975)";"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;"wind";NA
+"O1ROPI01";18.6125;49.6975;327;"Ropice";"Ropice";"AKS3";"POINT (18.6125 49.6975)";"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;"wind";NA
+"O1ROPITT";18.5597;49.6169;880;"Ropicka";"Ropicka";"TOTAL";"POINT (18.5597 49.6169)";NA;NA;NA;NA;NA;NA;NA;NA;NA
+"O1RYMA01";17.296111;49.931389;578;"Rýmarov";"Rýmarov";"AKS4";"POINT (17.296111 49.931389)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA
+"O1RYMH01";17.286667;49.955833;643;"Rýmarov";"Rýmarov, Harrachov";"MSS";"POINT (17.286667 49.955833)";"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;"wind";NA
+"O1SENO01";18.380278;49.770556;258;"Šenov";"Šenov, Lapacka";"MSS";"POINT (18.380278 49.770556)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"O1SERA01";17.108333;50.1875;1328;"Šerák";"Šerák";"AMS1";"POINT (17.108333 50.1875)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";"pres"
+"O1SERATT";17.1075;50.1883;1320;"Šerák";"Šerák";"TOTAL";"POINT (17.1075 50.1883)";NA;NA;NA;NA;NA;NA;NA;NA;NA
+"O1SKRI01";17.9139;49.8178;485;"Skripov";"Skripov";"MSS";"POINT (17.9139 49.8178)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"O1SKRTTT";17.151505;49.999157;876;"Skrítek";"Skrítek, Sobotín, Rudoltice";"TOTAL";"POINT (17.151505 49.999157)";NA;NA;NA;NA;NA;NA;NA;NA;NA
+"O1SUDI01";18.0736;50.0319;217;"Sudice";"Sudice";"MSS";"POINT (18.0736 50.0319)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"O1SVET01";17.4011;50.0331;593;"Svetlá Hora";"Svetlá Hora";"AKS1";"POINT (17.4011 50.0331)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA
+"O1TEHR01";18.531667;49.735278;356;"Terlicko";"Terlicko, Hradište";"MSS";"POINT (18.531667 49.735278)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"O1TYRA01";18.6494;49.6258;500;"Tyra";"Tyra";"MSS";"POINT (18.6494 49.6258)";"tmean";NA;NA;NA;"prec";"snow";NA;NA;NA
+"O1UHNV01";16.984708;50.332069;615;"Uhelná";"Uhelná, Nové Vilémovice";"AKS4";"POINT (16.984708 50.332069)";"tmean";"tmax";"tmin";"humid";"prec";NA;NA;NA;NA
+"O1VEKR01";17.179638;50.370798;235;"Velká Kraš";"Velká Kraš";"MSS";"POINT (17.179638 50.370798)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"O1VIDL01";17.2717;50.1056;774;"Vidly";"Vidly";"MSS";"POINT (17.2717 50.1056)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"O1VIDN01";17.1917;50.37794;228;"Vidnava";"Vidnava";"AKS4";"POINT (17.1917 50.37794)";"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;NA;NA
+"O1VITK01";17.757308;49.778037;491;"Vítkov";"Vítkov";"AKS2";"POINT (17.757308 49.778037)";"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;"wind";NA
+"O1ZARY01";17.560556;50.154167;498;"Mesto Albrechtice";"Mesto Albrechtice, Žáry";"AKS4";"POINT (17.560556 50.154167)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA
+"O1ZLHO01";17.3926;50.252778;444;"Zlaté Hory";"Zlaté Hory";"AKS4";"POINT (17.3926 50.252778)";"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;NA;NA
+"O1ZLHR01";17.3926;50.263;407;"Zlaté Hory";"Zlaté Hory";"MSS";"POINT (17.3926 50.263)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"O2BEZD01";16.7567;49.7;315;"Moravská Trebová";"Moravská Trebová, Bezdecí, Unerázka";"MSS";"POINT (16.7567 49.7)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"O2BRAN01";17.0129;50.1324;548;"Branná";"Branná, Františkov";"ASS";"POINT (17.0129 50.1324)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"O2CERO01";16.7394;50.0453;535;"Cervená Voda";"Cervená Voda";"ASS";"POINT (16.7394 50.0453)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"O2DSDN01";17.1794;50.0853;765;"Dlouhé Stráne";"Dlouhé Stráne, Kouty nad Desnou";"ASS";"POINT (17.1794 50.0853)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"O2DUBI01";16.9662;49.8269;282;"Dubicko";"Dubicko";"AKS3";"POINT (16.9662 49.8269)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA
+"O2DUBI01";16.9662;49.8269;282;"Dubicko";"Dubicko";"AKS3";"POINT (16.9662 49.8269)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA
+"O2HANU01";16.940556;50.0819;432;"Hanušovice";"Hanušovice";"AKS3";"POINT (16.940556 50.0819)";"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;NA;NA
+"O2HANU01";16.940556;50.0819;432;"Hanušovice";"Hanušovice";"AKS3";"POINT (16.940556 50.0819)";"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;NA;NA
+"O2HOSJ01";16.7703;49.8744;305;"Hoštejn";"Hoštejn";"ASS";"POINT (16.7703 49.8744)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"O2JEVI01";16.7269;49.6297;342;"Jevícko";"Jevícko";"AKS1";"POINT (16.7269 49.6297)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA
+"O2KRALTT";16.851393;50.204171;1369;"Králický Snežník";"Králický Snežník";"TOTAL";"POINT (16.851393 50.204171)";NA;NA;NA;NA;NA;NA;NA;NA;NA
+"O2LANS01";16.625;49.9028;362;"Lanškroun";"Lanškroun";"AKS4";"POINT (16.625 49.9028)";"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;NA;NA
+"O2LOSI01";17.051365;50.038056;411;"Velké Losiny";"Velké Losiny";"ASS";"POINT (17.051365 50.038056)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA
+"O2LUKA01";16.953333;49.652222;510;"Luká";"Luká";"AMS1";"POINT (16.953333 49.652222)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";"pres"
+"O2MEHL01";17.037966;49.782412;268;"Medlov";"Medlov, Hlivice";"MKS";"POINT (17.037966 49.782412)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";"pres"
+"O2MIRO01";16.839447;49.796164;370;"Mírov";"Mírov, Mírovecek";"MSS";"POINT (16.839447 49.796164)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"O2OLKL01";17.264465;49.608795;215;"Olomouc";"Olomouc, Klášterní Hradisko";"MSS";"POINT (17.264465 49.608795)";"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;"wind";NA
+"O2OLOM01";17.2844;49.5758;210;"Olomouc";"Olomouc, Holice";"AKS1";"POINT (17.2844 49.5758)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA
+"O2OSKA01";17.134781;49.90482;360;"Oskava";"Oskava";"ASS";"POINT (17.134781 49.90482)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"O2PAPR01";16.988889;50.209444;1006;"Staré Mesto pod Snežníkem";"Staré Mesto pod Snežníkem, Paprsek";"AKS3";"POINT (16.988889 50.209444)";"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;NA;NA
+"O2PAPR01";16.988889;50.209444;1006;"Staré Mesto pod Snežníkem";"Staré Mesto pod Snežníkem, Paprsek";"AKS3";"POINT (16.988889 50.209444)";"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;NA;NA
+"O2PASE01";17.2345;49.7776;271;"Paseka";"Paseka";"AKS4";"POINT (17.2345 49.7776)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA
+"O2SKLE01";16.8472;50.1278;730;"Malá Morava";"Malá Morava, Sklené";"MSS";"POINT (16.8472 50.1278)";"tmean";NA;NA;NA;"prec";"snow";NA;NA;NA
+"O2SLAM01";16.832833;50.151011;1100;"Dolní Morava";"Dolní Morava, Slamenka";"AKS4";"POINT (16.832833 50.151011)";"tmean";"tmax";"tmin";"humid";"prec";NA;"solr";"wind";NA
+"O2STEP01";17.22473;49.68115;225;"Štepánov";"Štepánov";"MSS";"POINT (17.22473 49.68115)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"O2STER01";17.2986;49.725;278;"Šternberk";"Šternberk";"AKS3";"POINT (17.2986 49.725)";"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;NA;NA
+"O2STER01";17.2986;49.725;278;"Šternberk";"Šternberk";"AKS3";"POINT (17.2986 49.725)";"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;NA;NA
+"O2STIT01";16.764343;49.956566;432;"Štíty";"Štíty";"AKS4";"POINT (16.764343 49.956566)";"tmean";"tmax";"tmin";"humid";"prec";NA;NA;NA;NA
+"O2STKU01";16.9419;50.1928;658;"Staré Mesto pod Snežníkem";"Staré Mesto pod Snežníkem, Kuncice";"MSS";"POINT (16.9419 50.1928)";"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;"wind";NA
+"O2SUMP01";16.9675;49.9742;328;"Šumperk";"Šumperk";"AKS1";"POINT (16.9675 49.9742)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";"pres"
+"O2TREB01";16.6969;49.8158;375;"Trebarov";"Trebarov";"AKS2";"POINT (16.6969 49.8158)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";"pres"
+"O2UJEZ01";17.482222;49.575556;358;"Velký Újezd";"Velký Újezd";"MSS";"POINT (17.482222 49.575556)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"O3BECV01";18.2983;49.4311;565;"Horní Becva";"Horní Becva";"AKS2";"POINT (18.2983 49.4311)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA
+"O3BENE01";18.294392;49.397036;855;"Velké Karlovice";"Velké Karlovice, Benešky";"MSS";"POINT (18.294392 49.397036)";"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;"wind";NA
+"O3HOST01";17.8683;49.3514;385;"Hoštálková";"Hoštálková";"AKS3";"POINT (17.8683 49.3514)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";"pres"
+"O3HOST01";17.8683;49.3514;385;"Hoštálková";"Hoštálková";"AKS3";"POINT (17.8683 49.3514)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";"pres"
+"O3HRAN01";17.701389;49.5525;247;"Hranice";"Hranice, Drahotuše";"MSS";"POINT (17.701389 49.5525)";"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;"wind";NA
+"O3HUSL01";18.1261;49.3;450;"Huslenky";"Huslenky, Kychová";"ASS";"POINT (18.1261 49.3)";"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;"wind";NA
+"O3KATE01";17.873333;49.401111;585;"Katerinice";"Katerinice, Ojicná";"AKS";"POINT (17.873333 49.401111)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA
+"O3KELC01";17.8281;49.4731;300;"Kelc";"Kelc";"MSS";"POINT (17.8281 49.4731)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"O3LIDE01";18.052524;49.20948;450;"Lidecko";"Lidecko";"MSS";"POINT (18.052524 49.20948)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"O3LIPN01";17.590556;49.521944;227;"Lipník nad Becvou";"Lipník nad Becvou";"MSS";"POINT (17.590556 49.521944)";"tmean";NA;NA;NA;"prec";"snow";NA;NA;NA
+"O3MARU01";17.8286;49.3653;664.1;"Hoštálková";"Hoštálková, Maruška";"AKS1";"POINT (17.8286 49.3653)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";"pres"
+"O3POTB01";17.6142;49.6238;545;"Potštát";"Potštát, Boškov";"AKS4";"POINT (17.6142 49.6238)";"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;NA;NA
+"O3POTS01";17.6764;49.6417;565;"Potštát";"Potštát, Kyžlírov";"MSS";"POINT (17.6764 49.6417)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"O3PRER01";17.458889;49.464444;210;"Prerov";"Prerov";"AKS2";"POINT (17.458889 49.464444)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";"pres"
+"O3PUSTTT";18.279722;49.4917;1014;"Pustevny";"Pustevny";"TOTAL";"POINT (18.279722 49.4917)";NA;NA;NA;NA;NA;NA;NA;NA;NA
+"O3RAJN01";17.8139;49.4111;405;"Rajnochovice";"Rajnochovice";"MSS";"POINT (17.8139 49.4111)";"tmean";NA;NA;NA;"prec";"snow";NA;NA;NA
+"O3ROZN01";18.138224;49.461251;375;"Rožnov pod Radhoštem";"Rožnov pod Radhoštem";"AKS4";"POINT (18.138224 49.461251)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA
+"O3ROZV01";18.112788;49.462778;362;"Rožnov pod Radhoštem";"Rožnov pod Radhoštem";"MSS";"POINT (18.112788 49.462778)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"O3VABY01";18.106298;49.416432;458;"Valašská Bystrice";"Valašská Bystrice";"ASS";"POINT (18.106298 49.416432)";"tmean";NA;NA;NA;"prec";"snow";NA;NA;NA
+"O3VALM01";17.9742;49.4636;334;"Valašské Mezirící";"Valašské Mezirící";"AKS2";"POINT (17.9742 49.4636)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA
+"O3VASE01";18.126944;49.240278;615;"Valašská Senice";"Valašská Senice";"AKS2";"POINT (18.126944 49.240278)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA
+"O3VEKA01";18.286944;49.359444;518;"Velké Karlovice";"Velké Karlovice";"AKS3";"POINT (18.286944 49.359444)";"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;NA;NA
+"O3VEKA01";18.286944;49.359444;518;"Velké Karlovice";"Velké Karlovice";"AKS3";"POINT (18.286944 49.359444)";"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;NA;NA
+"O3VSET01";17.9961;49.3442;387;"Vsetín";"Vsetín";"AKS1";"POINT (17.9961 49.3442)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA
+"O3ZDEC01";18.0772;49.2639;491;"Zdechov";"Zdechov";"MSS";"POINT (18.0772 49.2639)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"O3ZDECTT";18.0792;49.2444;730;"Zdechov";"Zdechov";"TOTAL";"POINT (18.0792 49.2444)";NA;NA;NA;NA;NA;NA;NA;NA;NA
+"O4BENE01";18.292204;49.396303;850;"Velké Karlovice";"Velké Karlovice, Benešky";"ASNS";"POINT (18.292204 49.396303)";NA;NA;NA;NA;NA;NA;NA;NA;NA
+"O4KLEP01";17.133821;50.007192;700;"Sobotín";"Sobotín, Klepácov";"ASNS";"POINT (17.133821 50.007192)";NA;NA;NA;NA;NA;NA;NA;NA;NA
+"P1BERO01";14.0642;49.9711;265;"Beroun";"Beroun";"MSS";"POINT (14.0642 49.9711)";"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;"wind";NA
+"P1CHRU01";14.1567;49.9964;255;"Chrustenice";"Lodenice";"MSS";"POINT (14.1567 49.9964)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"P1DOBE01";14.2758;49.9333;205;"Dobrichovice";"Dobrichovice";"AKS2";"POINT (14.2758 49.9333)";"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;"wind";NA
+"P1HVOZ01";13.8719;49.7983;425;"Hvozdec";"Hvozdec, Mrtník";"ASS";"POINT (13.8719 49.7983)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"P1JILS01";14.3319;49.9233;354;"Jílovište";"Jílovište";"MSS";"POINT (14.3319 49.9233)";"tmean";NA;NA;NA;"prec";"snow";NA;NA;NA
+"P1KAMY01";14.24637;49.63234;280;"Kamýk nad Vltavou";"Kamýk nad Vltavou";"ASS";"POINT (14.24637 49.63234)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA
+"P1KOLE01";14.2378;50.1989;240;"Kolec";"Kolec";"MSS";"POINT (14.2378 50.1989)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"P1KRAL01";14.29;50.2419;220;"Kralupy nad Vltavou";"Kralupy nad Vltavou";"AKS2";"POINT (14.29 50.2419)";"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;"wind";NA
+"P1KRIV01";13.8808;50.0381;323;"Krivoklát";"Krivoklát";"MSS";"POINT (13.8808 50.0381)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"P1LANY01";13.9519;50.1242;415;"Lány";"Lány";"AKS1";"POINT (13.9519 50.1242)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA
+"P1LITE01";14.1506;49.9033;320;"Liten";"Liten";"MSS";"POINT (14.1506 49.9033)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"P1MNIS01";14.2625;49.8694;367;"Mníšek pod Brdy";"Mníšek pod Brdy";"MSS";"POINT (14.2625 49.8694)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"P1NBEL01";14.2017;49.7067;465;"Necín";"Necín, Belohrad";"MSS";"POINT (14.2017 49.7067)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"P1NEUM01";14.0375;49.8542;322;"Neumetely";"Neumetely";"AKS1";"POINT (14.0375 49.8542)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA
+"P1NSTR01";13.8942;50.1456;482;"Nové Strašecí";"Nové Strašecí";"MSS";"POINT (13.8942 50.1456)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"P1PBRE01";14.352689;50.080843;355;"Praha";"Praha, Brevnov";"ASS";"POINT (14.352689 50.080843)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"P1PCHO01";14.5;50.0294;297;"Praha";"Praha, Chodov";"MSS";"POINT (14.5 50.0294)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"P1PKAR01";14.427778;50.069167;260.5;"Praha";"Praha, Karlov";"AMS1";"POINT (14.427778 50.069167)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";"pres"
+"P1PKBE01";14.538056;50.123333;284.5;"Praha";"Praha, Kbely";"AMS";"POINT (14.538056 50.123333)";NA;NA;NA;NA;NA;NA;NA;NA;NA
+"P1PKLE01";14.416923;50.086634;190.7;"Praha";"Praha, Klementinum";"AKS2";"POINT (14.416923 50.086634)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";"pres"
+"P1PKLM01";14.416436;50.086341;190.7;"Praha";"Praha, Klementinum";"MKS";"POINT (14.416436 50.086341)";"tmean";NA;NA;NA;NA;NA;NA;NA;NA
+"P1PKOM01";14.40636;49.9886;213;"Praha";"Praha, Komorany";"AKS4";"POINT (14.40636 49.9886)";"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;NA;NA
+"P1PLIB01";14.446944;50.007778;302.04;"Praha";"Praha, Libuš";"AMS1";"POINT (14.446944 50.007778)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";"pres"
+"P1PODL01";13.9806;49.6897;510;"Podlesí";"Podlesí";"MSS";"POINT (13.9806 49.6897)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"P1PRIB01";14.0225;49.6947;555;"Príbram";"Príbram";"AKS1";"POINT (14.0225 49.6947)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA
+"P1PRUH01";14.5594;50.0075;312;"Pruhonice";"Pruhonice";"AKS4";"POINT (14.5594 50.0075)";"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;"wind";NA
+"P1PRUZ01";14.255556;50.100278;364;"Praha";"Praha, Ruzyne";"AMS";"POINT (14.255556 50.100278)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";"pres"
+"P1PSUC01";14.3906;50.1436;268;"Praha";"Praha, Suchdol";"MSS";"POINT (14.3906 50.1436)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"P1PVIN01";14.46186;50.07584;280;"Praha";"Praha, Vinohrady - Flora";"AKS2";"POINT (14.46186 50.07584)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA
+"P1PZKO01";14.3178;50.0072;330;"Praha";"Praha, Zadní Kopanina";"MSS";"POINT (14.3178 50.0072)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"P1RPET01";13.9369;49.8272;360;"Rpety";"Rpety";"MSS";"POINT (13.9369 49.8272)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"P1SLAN01";14.0903;50.2369;307;"Slaný";"Slaný";"ASS";"POINT (14.0903 50.2369)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"P1UVAL01";14.7111;50.0772;260;"Úvaly";"Úvaly";"MSS";"POINT (14.7111 50.0772)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"P1VOZN01";14.2128;49.8192;385;"Voznice";"Voznice";"ASS";"POINT (14.2128 49.8192)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"P1ZBEC01";13.935;50.0614;262;"Zbecno";"Zbecno";"MSS";"POINT (13.935 50.0614)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"P1ZDIC01";13.9714;49.9108;305;"Zdice";"Zdice";"MSS";"POINT (13.9714 49.9108)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"P1ZLON01";14.0886;50.2847;231;"Zlonice";"Zlonice";"ASS";"POINT (14.0886 50.2847)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"P2BAKO01";14.9394;50.4806;220;"Bakov nad Jizerou";"Bakov nad Jizerou";"MSS";"POINT (14.9394 50.4806)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"P2BAST01";14.4622;50.205;230;"Bašt";"Bašt, Baštek";"MSS";"POINT (14.4622 50.205)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"P2BENE01";15.5499;50.6713;780;"Benecko";"Benecko";"MSS";"POINT (15.5499 50.6713)";"tmean";"tmax";"tmin";NA;"prec";"snow";"solr";"wind";NA
+"P2BNLO01";15.158215;50.81445;780;"Bedrichov";"Bedrichov, Nová louka";"AKS4";"POINT (15.158215 50.81445)";"tmean";"tmax";"tmin";NA;"prec";"snow";NA;NA;NA
+"P2BOSE01";15.0408;50.5194;390;"Bosen";"Bosen, Mužský";"ASS";"POINT (15.0408 50.5194)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"P2BRAN01";14.6606;50.1897;179;"Brandýs nad Labem-St.B";"Brandýs nad Labem-St.B";"AKS1";"POINT (14.6606 50.1897)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";"pres"
+"P2BROD01";14.8661;50.3347;220;"Brodce";"Brodce";"MSS";"POINT (14.8661 50.3347)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"P2CDUB01";14.9817;50.6836;355;"Ceský Dub";"Ceský Dub, Modlibohov";"AKS4";"POINT (14.9817 50.6836)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA
+"P2CHOT01";14.810102;50.337419;260;"Chotetov";"Chotetov";"MSS";"POINT (14.810102 50.337419)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"P2DBOU01";15.141737;50.437897;244;"Dolní Bousov";"Dolní Bousov";"AKS3";"POINT (15.141737 50.437897)";"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;NA;NA
+"P2DBOU01";15.141737;50.437897;244;"Dolní Bousov";"Dolní Bousov";"AKS3";"POINT (15.141737 50.437897)";"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;NA;NA
+"P2DESN01";15.3197;50.7894;772;"Desná";"Desná, Souš";"AKS1";"POINT (15.3197 50.7894)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA
+"P2DVOR01";15.514525;50.748172;1115;"Dvoracky";"Dvoracky";"AKS4";"POINT (15.514525 50.748172)";"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;NA;NA
+"P2HARR01";15.42;50.781667;675;"Harrachov";"Harrachov";"AKS1";"POINT (15.42 50.781667)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA
+"P2HOLE01";15.3022;50.5303;432;"Holenice";"Holenice";"AKS1";"POINT (15.3022 50.5303)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA
+"P2JDUL01";15.228611;50.778056;623;"Josefuv Dul";"Josefuv Dul";"ASS";"POINT (15.228611 50.778056)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"P2JILE01";15.5125;50.6014;462;"Jilemnice";"Jilemnice";"MSS";"POINT (15.5125 50.6014)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"P2JIVI01";14.9492;50.5539;308;"Jivina";"Jivina";"MSS";"POINT (14.9492 50.5539)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"P2KATU01";14.7778;50.4444;312;"Katusice";"Katusice";"AKS2";"POINT (14.7778 50.4444)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA
+"P2KORE01";15.34444;50.82001;858;"Korenov";"Korenov, Jizerka";"AKS4";"POINT (15.34444 50.82001)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA
+"P2KOSA01";14.7046;50.3255;210;"Kropácova Vrutice";"Kropácova Vrutice, Strížovice";"MSS";"POINT (14.7046 50.3255)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"P2KOST01";14.9614;50.1703;185;"Kostomlaty nad Labem";"Kostomlaty nad Labem";"ASS";"POINT (14.9614 50.1703)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"P2LOMN01";15.38;50.5383;485;"Lomnice nad Popelkou";"Lomnice nad Popelkou";"ASS";"POINT (15.38 50.5383)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"P2MLBO01";14.91405;50.42267;221;"Mladá Boleslav";"Mladá Boleslav";"MSS";"POINT (14.91405 50.42267)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"P2MRZK01";14.8075;50.044444;260;"Mrzky";"Mrzky";"AKS4";"POINT (14.8075 50.044444)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA
+"P2MSEN01";14.63399;50.44061;340;"Mšeno";"Mšeno";"ASS";"POINT (14.63399 50.44061)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"P2NPAK01";15.5136;50.49;450;"Nová Paka";"Nová Paka";"MSS";"POINT (15.5136 50.49)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"P2NVES01";14.7322;50.1764;170;"Káraný";"Káraný";"ASS";"POINT (14.7322 50.1764)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"P2ROKY01";15.4229;50.7319;525;"Rokytnice nad Jizerou";"Rokytnice nad Jizerou, Vilémov";"MSS";"POINT (15.4229 50.7319)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"P2ROPR01";15.4142;50.6514;550;"Roprachtice";"Roprachtice";"ASS";"POINT (15.4142 50.6514)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"P2SEMC01";15.0036;50.3671;234;"Semcice";"Semcice";"AKS1";"POINT (15.0036 50.3671)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA
+"P2SEMI01";15.3153;50.6133;370;"Semily";"Semily";"ASS";"POINT (15.3153 50.6133)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"P2SMRZ01";15.2511;50.7294;550;"Smržovka";"Smržovka";"MSS";"POINT (15.2511 50.7294)";"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;"wind";NA
+"P2STUD01";15.55;50.5528;532;"Studenec";"Studenec";"ASS";"POINT (15.55 50.5528)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"P2TUHA01";14.5206;50.2953;160;"Tuhan";"Tuhan";"AKS1";"POINT (14.5206 50.2953)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";"pres"
+"P2TURN01";15.154444;50.589722;253;"Turnov";"Turnov";"AKS4";"POINT (15.154444 50.589722)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA
+"P2VSEL01";14.950609;50.648954;392;"Všelibice";"Všelibice";"MSS";"POINT (14.950609 50.648954)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"P2VYSK01";15.408523;50.682981;695;"Vysoké nad Jizerou";"Vysoké nad Jizerou";"ASS";"POINT (15.408523 50.682981)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"P2ZBRO01";15.2517;50.6408;290;"Železný Brod";"Železný Brod";"MSS";"POINT (15.2517 50.6408)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"P3BENS01";14.69668;49.78862;343;"Benešov";"Benešov";"MSS";"POINT (14.69668 49.78862)";"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;"wind";NA
+"P3BOHD01";15.2239;49.7786;460;"Bohdanec";"Bohdanec";"MSS";"POINT (15.2239 49.7786)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"P3BOZE01";15.1528;49.3608;611;"Božejov";"Božejov";"MSS";"POINT (15.1528 49.3608)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"P3DCHV01";15.0656;49.9833;290;"Dolní Chvatliny";"Dolní Chvatliny";"MSS";"POINT (15.0656 49.9833)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"P3DKRA01";15.1597;49.6625;420;"Dolní Kralovice";"Dolní Kralovice, Strítež";"MSS";"POINT (15.1597 49.6625)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"P3HABR01";15.4869;49.7519;467;"Habry";"Habry";"ASS";"POINT (15.4869 49.7519)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"P3HAVL01";15.5797;49.6119;452;"Havlíckuv Brod";"Havlíckuv Brod";"AKS1";"POINT (15.5797 49.6119)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA
+"P3HULI01";15.086667;49.721111;378;"Hulice";"Hulice";"AKS4";"POINT (15.086667 49.721111)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA
+"P3HUMP01";15.35278;49.54694;515;"Humpolec";"Humpolec";"MSS";"POINT (15.35278 49.54694)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"P3HUMP02";15.35333;49.53528;540;"Humpolec";"Humpolec";"ASS";"POINT (15.35333 49.53528)";NA;NA;NA;NA;"prec";NA;NA;NA;NA
+"P3JABL01";14.4519;49.7808;330;"Jablonná";"Jablonná";"MSS";"POINT (14.4519 49.7808)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"P3JILO01";14.4681;49.8994;350;"Jílové u Prahy";"Jílové u Prahy";"MSS";"POINT (14.4681 49.8994)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"P3KOSE01";15.080556;49.573611;532.29;"Košetice";"Košetice, Krešín, Kramolín";"AMS1";"POINT (15.080556 49.573611)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";"pres"
+"P3KOST01";14.8356;50.0044;360;"Kostelec n. Cernými Lesy";"Kostelec n. Cernými Lesy";"MSS";"POINT (14.8356 50.0044)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"P3KOZM01";14.7942;49.8264;500;"Kozmice";"Kozmice";"MSS";"POINT (14.7942 49.8264)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"P3LEDS01";15.284048;49.698597;408;"Ledec nad Sázavou";"Ledec nad Sázavou";"MSS";"POINT (15.284048 49.698597)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"P3MLVO01";14.8083;49.5375;445;"Mladá Vožice";"Mladá Vožice";"ASS";"POINT (14.8083 49.5375)";NA;NA;NA;NA;"prec";NA;NA;NA;NA
+"P3NACE01";14.9086;49.6044;502;"Naceradec";"Naceradec";"MSS";"POINT (14.9086 49.6044)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"P3NETV01";14.521178;49.818411;368;"Netvorice";"Netvorice";"AKS4";"POINT (14.521178 49.818411)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA
+"P3NIZK01";15.8067;49.5325;526;"Nížkov";"Nížkov";"MSS";"POINT (15.8067 49.5325)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"P3NRUD01";14.4403;49.6317;348;"Nedrahovice";"Nedrahovice, Rudolec";"AKS1";"POINT (14.4403 49.6317)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA
+"P3NRYC01";15.365;49.3858;624;"Nový Rychnov";"Nový Rychnov";"AKS1";"POINT (15.365 49.3858)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA
+"P3ONDR01";14.7847;49.9072;485;"Ondrejov";"Ondrejov";"AKS1";"POINT (14.7847 49.9072)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";"pres"
+"P3PACO01";15.023611;49.463611;494;"Pacov";"Pacov";"ASS";"POINT (15.023611 49.463611)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"P3PELH01";15.2344;49.4336;520;"Pelhrimov";"Pelhrimov";"MSS";"POINT (15.2344 49.4336)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"P3POLN01";15.7061;49.4864;480;"Polná";"Polná";"MSS";"POINT (15.7061 49.4864)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"P3POST01";14.7833;49.7306;421;"Postupice";"Postupice";"MSS";"POINT (14.7833 49.7306)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"P3PRIB01";15.7625;49.582778;532.5;"Pribyslav";"Pribyslav, Hrište";"AMS1";"POINT (15.7625 49.582778)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";"pres"
+"P3PSAR01";14.9678;49.7536;475;"Psáre";"Psáre";"MSS";"POINT (14.9678 49.7536)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"P3REND01";15.08814;49.76873;444;"Rendejov";"Rendejov, Nový Samechov";"MSS";"POINT (15.08814 49.76873)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"P3RICA01";14.6717;50.0003;385;"Rícany";"Rícany";"MSS";"POINT (14.6717 50.0003)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"P3SAZA01";14.901245;49.876432;350;"Sázava";"Sázava";"MSS";"POINT (14.901245 49.876432)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"P3SIMA01";15.4486;49.4614;630;"Šimanov";"Šimanov";"MSS";"POINT (15.4486 49.4614)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"P3STAN01";15.0678;49.9028;415;"Vavrinec";"Vavrinec, Žíšov";"AKS2";"POINT (15.0678 49.9028)";"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;"wind";NA
+"P3STOK01";15.5875;49.4983;530;"Štoky";"Štoky";"ASS";"POINT (15.5875 49.4983)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"P3STOK02";15.590556;49.501389;520;"Štoky";"Štoky";"MSS";"POINT (15.590556 49.501389)";NA;NA;NA;NA;"prec";NA;NA;NA;NA
+"P3STRE01";14.6181;49.5381;588;"Strezimír";"Strezimír";"MSS";"POINT (14.6181 49.5381)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"P3SVET01";15.4075;49.6728;410;"Svetlá nad Sázavou";"Svetlá nad Sázavou";"MSS";"POINT (15.4075 49.6728)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"P3VELI01";14.8233;49.6664;451;"Veliš";"Veliš";"MSS";"POINT (14.8233 49.6664)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"P3VLAS01";14.894722;49.691944;415;"Vlašim";"Vlašim";"AKS4";"POINT (14.894722 49.691944)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA
+"P3VOTI01";14.6333;49.6433;450;"Votice";"Votice";"MSS";"POINT (14.6333 49.6433)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"P3ZAHR01";14.5886;49.7325;358;"Maršovice";"Maršovice, Zahrádka";"MSS";"POINT (14.5886 49.7325)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"P3ZDAR01";15.9364;49.5978;605;"Ždár nad Sázavou";"Ždár nad Sázavou, Stržanov";"ASS";"POINT (15.9364 49.5978)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"P4BHRE01";15.162778;50.835;825;"Bedrichov";"Bedrichov, Hrebínek";"ASS";"POINT (15.162778 50.835)";NA;NA;NA;NA;NA;NA;NA;NA;NA
+"P4BKRS01";15.18133;50.81484;805;"Bedrichov";"Bedrichov, Kristiánov";"ASS";"POINT (15.18133 50.81484)";NA;NA;NA;NA;NA;NA;NA;NA;NA
+"P4BUPO01";15.193579;50.828693;875;"Bedrichov";"Bedrichov, U Podkovy";"ASS";"POINT (15.193579 50.828693)";NA;NA;NA;NA;NA;NA;NA;NA;NA
+"P4HKAS01";15.276634;50.825752;912;"Hejnice";"Hejnice, Kasárenská";"ASS";"POINT (15.276634 50.825752)";NA;NA;NA;NA;NA;NA;NA;NA;NA
+"P4JABL01";15.438379;50.695027;439;"Jablonec nad Jizerou";"Jablonec nad Jizerou";"ASNS";"POINT (15.438379 50.695027)";NA;NA;NA;NA;NA;NA;NA;NA;NA
+"P4JDRO01";15.22405;50.82287;993;"Josefuv Dul";"Josefuv Dul, Rozmezí";"ASNS";"POINT (15.22405 50.82287)";NA;NA;NA;NA;NA;NA;NA;NA;NA
+"P4KJEZ01";15.29299;50.80763;775;"Korenov";"Korenov, Jezdecká";"ASS";"POINT (15.29299 50.80763)";NA;NA;NA;NA;NA;NA;NA;NA;NA
+"P4KJIC01";15.304489;50.840495;920;"Korenov";"Korenov, Jizerská cesta";"ASS";"POINT (15.304489 50.840495)";NA;NA;NA;NA;NA;NA;NA;NA;NA
+"P4KKUR01";15.282713;50.831339;880;"Korenov";"Korenov, Kurovec";"ASS";"POINT (15.282713 50.831339)";NA;NA;NA;NA;NA;NA;NA;NA;NA
+"P4KLAS01";15.35118;50.832423;945;"Korenov";"Korenov, Lasicí";"ASS";"POINT (15.35118 50.832423)";NA;NA;NA;NA;NA;NA;NA;NA;NA
+"P4KOZA01";15.263056;50.594444;744;"Kozákov";"Kozákov";"ASNS";"POINT (15.263056 50.594444)";NA;NA;NA;NA;NA;NA;NA;NA;NA
+"P4POLA01";14.844278;49.455925;680;"Chotciny";"Chotciny, Polánka";"ASNS";"POINT (14.844278 49.455925)";NA;NA;NA;NA;NA;NA;NA;NA;NA
+"U1BILI01";13.775657;50.539526;270;"Bílina";"Bílina";"MSS";"POINT (13.775657 50.539526)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"U1BOLR01";13.415082;50.537395;600;"Bolebor";"Bolebor";"MSS";"POINT (13.415082 50.537395)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"U1BOURTT";13.70631;50.68494;860;"Bournák";"Bournák";"TOTAL";"POINT (13.70631 50.68494)";NA;NA;NA;NA;NA;NA;NA;NA;NA
+"U1CEJI01";13.58558;50.68706;740;"Ceský Jiretín";"Ceský Jiretín, Fláje";"MSS";"POINT (13.58558 50.68706)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"U1CHOM01";13.39711;50.46225;362;"Chomutov";"Chomutov";"MSS";"POINT (13.39711 50.46225)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"U1CITO01";13.8164;50.3361;235;"Cítoliby";"Cítoliby";"MSS";"POINT (13.8164 50.3361)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"U1DLAZ01";13.95222;50.47;278;"Dlažkovice";"Dlažkovice";"MSS";"POINT (13.95222 50.47)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"U1DOKS01";14.17;50.45889;158;"Doksany";"Doksany";"AMS1";"POINT (14.17 50.45889)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";"pres"
+"U1DUBI01";13.80214;50.68056;402;"Dubí";"Dubí";"ASS";"POINT (13.80214 50.68056)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"U1HORB01";14.465;50.3422;158;"Horín";"Horín";"MSS";"POINT (14.465 50.3422)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"U1HRIV01";13.732;50.292153;270;"Hrivice";"Hrivice";"ASS";"POINT (13.732 50.292153)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"U1HROB01";13.71953;50.654;360;"Hrob";"Hrob, Križanov";"ASS";"POINT (13.71953 50.654)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"U1JILO01";14.10183;50.76642;310;"Jílové";"Jílové";"MSS";"POINT (14.10183 50.76642)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"U1KATU01";13.32806;50.37667;322.4;"Tušimice";"Tušimice";"AMS1";"POINT (13.32806 50.37667)";NA;NA;NA;NA;NA;NA;NA;NA;NA
+"U1KLIN01";13.55153;50.63875;807;"Klíny";"Klíny";"ASS";"POINT (13.55153 50.63875)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"U1KOPI01";13.62278;50.54417;240;"Kopisty";"Kopisty";"AMS1";"POINT (13.62278 50.54417)";NA;NA;NA;NA;NA;NA;NA;NA;NA
+"U1KRIM01";13.31453;50.499;570;"Krimov";"Krimov";"MSS";"POINT (13.31453 50.499)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"U1LIBO01";14.04575;50.39983;165;"Libochovice";"Libochovice, Poplze";"ASS";"POINT (14.04575 50.39983)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"U1LUKO01";13.88453;50.52756;502;"Lukov";"Lukov";"MSS";"POINT (13.88453 50.52756)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"U1MAST01";13.2828;50.2608;373;"Maštov";"Maštov";"ASS";"POINT (13.2828 50.2608)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"U1MEDE01";13.13256;50.42936;828;"Medenec";"Medenec";"AKS1";"POINT (13.13256 50.42936)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA
+"U1MERU01";13.79031;50.47908;367;"Merunice";"Merunice, Žichov";"ASS";"POINT (13.79031 50.47908)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"U1MILE01";13.93083;50.555;830.5;"Milešovka";"Milešovka";"AMS";"POINT (13.93083 50.555)";NA;NA;NA;NA;NA;NA;NA;NA;NA
+"U1MILS01";13.94231;50.53642;348;"Milešov";"Milešov";"ASS";"POINT (13.94231 50.53642)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"U1NOVE01";13.48561;50.59244;725;"Nová Ves v Horách";"Nová Ves v Horách";"AKS1";"POINT (13.48561 50.59244)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA
+"U1PAST01";13.38189;50.07036;470;"Velecín";"Velecín, Pastuchovice";"MSS";"POINT (13.38189 50.07036)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"U1PEKL01";13.937667;50.767361;631;"Petrovice";"Petrovice, Krásný Les";"ASS";"POINT (13.937667 50.767361)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"U1PERU01";13.9542;50.3386;350;"Peruc";"Peruc";"MSS";"POINT (13.9542 50.3386)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"U1ROUL01";14.25439;50.42622;175;"Roudnice nad Labem";"Roudnice nad Labem";"MSS";"POINT (14.25439 50.42622)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA
+"U1SMOL01";13.85617;50.30872;345;"Smolnice";"Smolnice";"AKS1";"POINT (13.85617 50.30872)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA
+"U1SNEZ01";14.08536;50.79683;569;"Snežník";"Snežník";"AKS2";"POINT (14.08536 50.79683)";"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;"wind";NA
+"U1SNEZTT";14.10717;50.79367;716;"Snežník";"Snežník";"TOTAL";"POINT (14.10717 50.79367)";NA;NA;NA;NA;NA;NA;NA;NA;NA
+"U1STRJ01";13.47694;50.17378;372;"Strojetice";"Strojetice";"AKS2";"POINT (13.47694 50.17378)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA
+"U1STRV01";14.255;50.36389;214;"Straškov-Vodochody";"Straškov-Vodochody";"ASS";"POINT (14.255 50.36389)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"U1TELN01";13.964611;50.725083;340;"Telnice";"Telnice, Varvažov";"MSS";"POINT (13.964611 50.725083)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"U1TEPL01";13.836344;50.645153;227;"Teplice";"Teplice";"AKS1";"POINT (13.836344 50.645153)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA
+"U1TISA01";14.02167;50.78694;556;"Tisá";"Tisá";"ASS";"POINT (14.02167 50.78694)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"U1ULKO01";14.04111;50.68333;375.39;"Ústí nad Labem";"Ústí nad Labem, Kockov";"AMS1";"POINT (14.04111 50.68333)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";"pres"
+"U1ULMA01";14.05831;50.62556;150;"Ústí nad Labem";"Ústí nad Labem, Vanov";"AKS2";"POINT (14.05831 50.62556)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA
+"U1VECE01";13.58406;50.20283;329;"Velká Cernoc";"Velká Cernoc";"ASS";"POINT (13.58406 50.20283)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"U1VYSL01";13.23853;50.46428;738;"Výsluní";"Výsluní";"MSS";"POINT (13.23853 50.46428)";"tmean";NA;NA;"humid";"prec";"snow";NA;"wind";NA
+"U1ZATE01";13.54319;50.34147;210;"Žatec";"Žatec";"AKS1";"POINT (13.54319 50.34147)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";"pres"
+"U2BEDR01";15.13708;50.81511;777;"Bedrichov";"Bedrichov";"AKS1";"POINT (15.13708 50.81511)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA
+"U2BENP01";14.31186;50.74422;250;"Benešov nad Ploucnicí";"Benešov nad Ploucnicí";"MSS";"POINT (14.31186 50.74422)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"U2CEKA01";14.42017;50.80283;319;"Ceská Kamenice";"Ceská Kamenice";"MSS";"POINT (14.42017 50.80283)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"U2CELI01";14.541141;50.675373;246;"Ceská Lípa";"Ceská Lípa";"AKS2";"POINT (14.541141 50.675373)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA
+"U2CHOT01";14.87175;50.83897;260;"Chotyne";"Chotyne";"ASS";"POINT (14.87175 50.83897)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"U2CHRI01";14.52456;50.85289;440;"Chribská";"Chribská, Horní Chribská";"MSS";"POINT (14.52456 50.85289)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"U2CHRV01";14.95861;50.81872;314;"Chrastava";"Chrastava";"ASS";"POINT (14.95861 50.81872)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"U2DECI01";14.20258;50.75097;172;"Decín";"Decín, Krešice";"AKS2";"POINT (14.20258 50.75097)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA
+"U2DECT01";14.20433;50.69783;150;"Decín";"Decín, Techlovice";"ASS";"POINT (14.20433 50.69783)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"U2DOKY01";14.66731;50.56811;284;"Doksy";"Doksy";"AKS1";"POINT (14.66731 50.56811)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA
+"U2DUBA01";14.555594;50.536399;258;"Dubá";"Dubá, Nedamov";"MSS";"POINT (14.555594 50.536399)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"U2FRYD01";15.09015;50.91785;337;"Frýdlant";"Frýdlant";"AKS";"POINT (15.09015 50.91785)";NA;NA;NA;NA;NA;NA;NA;NA;NA
+"U2HEJN01";15.18317;50.88456;396;"Hejnice";"Hejnice";"AKS2";"POINT (15.18317 50.88456)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA
+"U2JANI01";15.17922;50.72931;495;"Jablonec nad Nisou";"Jablonec nad Nisou";"ASS";"POINT (15.17922 50.72931)";"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;"wind";NA
+"U2JAPO01";14.77375;50.77206;320;"Jablonné v Podještedí";"Jablonné v Podještedí";"AKS2";"POINT (14.77375 50.77206)";"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;"wind";NA
+"U2KRIN01";14.907056;50.738722;395;"Križany";"Križany";"ASS";"POINT (14.907056 50.738722)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"U2LIBC01";15.02389;50.76972;397.72;"Liberec";"Liberec";"AMS1";"POINT (15.02389 50.76972)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";"pres"
+"U2LITM01";14.119889;50.532111;172.5;"Litomerice";"Litomerice";"MSS";"POINT (14.119889 50.532111)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"U2LOBE01";14.31347;51.01965;350;"Lobendava";"Lobendava";"MSS";"POINT (14.31347 51.01965)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"U2MARE01";14.676;50.80967;395;"Marenice";"Marenice";"ASS";"POINT (14.676 50.80967)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"U2MFOJ01";15.05856;50.82725;395;"Mníšek";"Mníšek, Fojtka";"MSS";"POINT (15.05856 50.82725)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"U2MIMO01";14.72494;50.65975;278;"Mimon";"Mimon";"ASS";"POINT (14.72494 50.65975)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"U2NBOR01";14.55719;50.75;358;"Nový Bor";"Nový Bor";"ASS";"POINT (14.55719 50.75)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"U2NMES01";15.23381;50.92358;473;"Nové Mesto pod Smrkem";"Nové Mesto pod Smrkem";"ASS";"POINT (15.23381 50.92358)";"tmean";"tmax";"tmin";"humid";"prec";"snow";NA;"wind";NA
+"U2PRED01";15.01814;50.96594;248;"Višnová";"Višnová";"ASS";"POINT (15.01814 50.96594)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"U2RUMB01";14.57086;50.95156;390;"Rumburk";"Rumburk";"MSS";"POINT (14.57086 50.95156)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"U2SLUK01";14.45525;51.002722;352;"Šluknov";"Šluknov";"ASS";"POINT (14.45525 51.002722)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"U2SMED01";15.27318;50.84452;834;"Bílý Potok";"Bílý Potok, Smedava";"AKS4";"POINT (15.27318 50.84452)";NA;NA;NA;NA;NA;NA;NA;NA;NA
+"U2STRR01";14.80739;50.70361;310;"Stráž pod Ralskem";"Stráž pod Ralskem";"AKS1";"POINT (14.80739 50.70361)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA
+"U2USHA01";14.30925;50.59617;280;"Úštek";"Úštek, Habrina";"MSS";"POINT (14.30925 50.59617)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"U2VARN01";14.60222;50.90556;367;"Varnsdorf";"Varnsdorf";"AKS1";"POINT (14.60222 50.90556)";"tmean";"tmax";"tmin";"humid";"prec";"snow";"solr";"wind";NA
+"U2VERN01";14.30492;50.65789;507;"Vernerice";"Vernerice";"ASS";"POINT (14.30492 50.65789)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"U2VYSO01";14.537361;50.411611;300;"Vysoká";"Vysoká";"MSS";"POINT (14.537361 50.411611)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"U2ZAHR01";14.51467;50.61428;270;"Zahrádky";"Zahrádky";"ASS";"POINT (14.51467 50.61428)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"U2ZAND01";14.403417;50.708083;275;"Žandov";"Žandov, Horní Police";"ASS";"POINT (14.403417 50.708083)";NA;NA;NA;NA;"prec";"snow";NA;NA;NA
+"U4BPCN01";15.152029;50.840168;820;"Bedrichov";"Bedrichov, Prameny Cerné Nisy";"ASS";"POINT (15.152029 50.840168)";NA;NA;NA;NA;NA;NA;NA;NA;NA
+"U4BPPC01";15.234862;50.853964;984;"Bílý Potok";"Bílý Potok, Pavlova cesta";"ASS";"POINT (15.234862 50.853964)";NA;NA;NA;NA;NA;NA;NA;NA;NA
+"U4BPSM01";15.273405;50.845078;826;"Bílý Potok";"Bílý Potok, Smedava";"ASS";"POINT (15.273405 50.845078)";NA;NA;NA;NA;NA;NA;NA;NA;NA
+"U4BPUJ01";15.292606;50.857536;916;"Bílý Potok";"Bílý Potok, U Jerábu";"ASS";"POINT (15.292606 50.857536)";NA;NA;NA;NA;NA;NA;NA;NA;NA
+"U4BTOM01";15.149511;50.834362;810;"Bedrichov";"Bedrichov, Tomšovka";"ASS";"POINT (15.149511 50.834362)";NA;NA;NA;NA;NA;NA;NA;NA;NA
+"U4BUHL01";15.147065;50.824187;780;"Bedrichov";"Bedrichov, Uhlírská";"ASS";"POINT (15.147065 50.824187)";NA;NA;NA;NA;NA;NA;NA;NA;NA
+"U4HKNA01";15.243308;50.830763;990;"Hejnice";"Hejnice, Knajpa";"ASS";"POINT (15.243308 50.830763)";NA;NA;NA;NA;NA;NA;NA;NA;NA
+"U4SMHO01";15.252335;50.844961;1006;"Hejnice";"Hejnice, Smedavská hora";"ASS";"POINT (15.252335 50.844961)";NA;NA;NA;NA;NA;NA;NA;NA;NA
+"U4ZAKO01";13.354974;50.549858;828;"Zákoutí";"Zákoutí";"ASNS";"POINT (13.354974 50.549858)";NA;NA;NA;NA;NA;NA;NA;NA;NA
