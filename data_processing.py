@@ -2,8 +2,9 @@ import os
 import pandas as pd
 import csv
 from itertools import groupby
+from datetime import datetime
 
-rootdir = ("\\inputs")
+rootdir = ("C:\\Users\\elisk\\Desktop\\Data\\CHMU\\CHMU_historical_data\\inputs")
 
 my_data  = []
 headers =  ["DATA"] 
@@ -12,7 +13,8 @@ columns_metadata = ["Station_id", "Station_name", "Measure_start", "Measure_end"
 
 for subdir, dirs, files in os.walk(rootdir):
     for entry in files:
-        if entry.endswith('_SRA_N.csv'):
+        #print(entry)
+        if entry.endswith('SRA_N.csv'):
             file_path = os.path.join(subdir, entry)
             last_header = ""
             is_header = False
@@ -32,12 +34,23 @@ for subdir, dirs, files in os.walk(rootdir):
                             variable = entry.split('_')[1]
                             line.append(station)
                             line.append(variable)
-                            my_data.append(line)
-    my_data.insert(0, columns_data)
-    #my_data["TimeStamp"] = my_data["Year"] + my_data["/"] + my_data["Month"] + my_data["/"] + my_data["Day"]
-    #print(my_data)
+                            ### adding Time element in datetime format
+                            time_elem = "/".join(line[0:3])
+                            line.append(time_elem)
+                            for item in line:
+                                
+                                #print(item)
+                            # this one cannot be appended because of the datetime type???
+                            # datetime_obj = datetime.strptime(time_elem, '%Y/%m/%d')
+                            # line.append(datetime_obj)
 
-    with open("\\outputs\\SRA_N_2.csv", 'w', newline='', encoding='cp1250') as csvfile:
-        datawriter = csv.writer(csvfile, delimiter = ';')
+                            my_data.append(line)
+                            #print(line)
+                            
+    my_data.insert(0, columns_data)
+    
+    with open("C:\\Users\\elisk\\Desktop\\Data\\CHMU\\CHMU_historical_data\\outputs\\SRA_N.csv", 'w', newline='', encoding='cp1250') as csvfile:
+        datawriter = csv.writer(csvfile, delimiter = ';', quotechar = '"')
+        ## quotechar does not work!!!!
         for line in my_data:
             datawriter.writerow(line)
