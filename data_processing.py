@@ -6,7 +6,7 @@ from datetime import datetime
 
 rootdir = ("inputs")
 
-def metadata_processing(data):
+def data_processing(data):
     date = datetime(int(data[0]), int(data[1]), int(data[2]))
     return [date.strftime('%d.%m.%Y'), ]
 
@@ -17,7 +17,7 @@ data = {'METADATA' : {
         'DATA' : {
             'headers' : ["Year", "Month", "Day", "Desc", "Value", "Station", "Variable", "Datetime"],
             'data' : [],
-            'extra_processing' : metadata_processing
+            'extra_processing' : data_processing
         }}
 
 
