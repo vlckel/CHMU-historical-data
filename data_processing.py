@@ -13,7 +13,6 @@ def metadata_processing(data):
 data = {'METADATA' : {
             'headers' : ["Station_id", "Station_name", "Measure_start", "Measure_end", "Longitude", "Latitude", "Elevation", "Station", "Variable"],
             'data' : [],
-            'extra_processing' : data_processing
         },
         'DATA' : {
             'headers' : ["Year", "Month", "Day", "Desc", "Value", "Station", "Variable", "Datetime"],
