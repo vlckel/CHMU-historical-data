@@ -4,16 +4,26 @@ import csv
 from itertools import groupby
 from datetime import datetime
 
-rootdir = ("C:\\Users\\elisk\\Desktop\\Data\\CHMU\\CHMU_historical_data\\inputs")
+rootdir = ("inputs")
 
-my_data  = []
-headers =  ["DATA"] 
-columns_data = ["Year", "Month", "Day", "Desc", "Value", "Station", "Variable"]
-columns_metadata = ["Station_id", "Station_name", "Measure_start", "Measure_end", "Longitude", "Latitude", "Elevation", "Station"]
+def data_processing(data):
+    date = datetime(int(data[0]), int(data[1]), int(data[2]))
+    return [date.strftime('%d.%m.%Y'), ]
+
+data = {'METADATA' : {
+            'headers' : ["Station_id", "Station_name", "Measure_start", "Measure_end", "Longitude", "Latitude", "Elevation", "Station", "Variable"],
+            'data' : [],
+        },
+        'DATA' : {
+            'headers' : ["Year", "Month", "Day", "Desc", "Value", "Station", "Variable", "Datetime"],
+            'data' : [],
+            'extra_processing' : data_processing
+        }}
+
+
 
 for subdir, dirs, files in os.walk(rootdir):
     for entry in files:
-        #print(entry)
         if entry.endswith('SRA_N.csv'):
             file_path = os.path.join(subdir, entry)
             last_header = ""
@@ -23,34 +33,27 @@ for subdir, dirs, files in os.walk(rootdir):
                 csv_lines = csv.reader(csvfile, delimiter=";")
                 for line in csv_lines:
                     if len(line) > 0:
-                        if len(line) == 1:
+                        is_header = len(line) == 1
+                        if is_header:
                             last_header = line[0]
                             row_index = 0
                         row_index += 1
-                        is_header = len(line) == 1
-                        if last_header in headers and not is_header and row_index > 2:
+
+                        if last_header in data and not is_header and row_index > 2:
                             file_index = len(line)
                             station = entry.split('_')[0]
                             variable = entry.split('_')[1]
                             line.append(station)
                             line.append(variable)
-                            ### adding Time element in datetime format
-                            time_elem = "/".join(line[0:3])
-                            line.append(time_elem)
-                            for item in line:
-                                
-                                #print(item)
-                            # this one cannot be appended because of the datetime type???
-                            # datetime_obj = datetime.strptime(time_elem, '%Y/%m/%d')
-                            # line.append(datetime_obj)
+                            if 'extra_processing' in data[last_header]:
+                                line += data[last_header]['extra_processing'](line)
 
-                            my_data.append(line)
-                            #print(line)
-                            
-    my_data.insert(0, columns_data)
-    
-    with open("C:\\Users\\elisk\\Desktop\\Data\\CHMU\\CHMU_historical_data\\outputs\\SRA_N.csv", 'w', newline='', encoding='cp1250') as csvfile:
-        datawriter = csv.writer(csvfile, delimiter = ';', quotechar = '"')
-        ## quotechar does not work!!!!
-        for line in my_data:
-            datawriter.writerow(line)
+                            data[last_header]['data'].append(line)
+
+    for data_header in data:
+        with open(f"outputs/processed_{data_header}.csv", 'w', newline='', encoding='cp1250') as csvfile:
+            datawriter = csv.writer(csvfile, delimiter = ';', quotechar = '"')
+            ## quotechar does work!!!!
+            datawriter.writerow(data[data_header]['headers'])
+            for line in data[data_header]['data']:
+                datawriter.writerow(line)
